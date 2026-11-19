@@ -1,0 +1,46 @@
+{
+  "name": "myapp-desktop",
+  "version": "1.0.0",
+  "description": "轻舟AI · 培训考核系统 桌面版（Electron 封装）",
+  "main": "main.js",
+  "author": "轻舟AI",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --win"
+  },
+  "build": {
+    "appId": "com.example.myapp",
+    "productName": "轻舟AI",
+    "copyright": "Copyright © 2026 轻舟AI",
+    "files": [
+      "main.js",
+      "preload.js"
+    ],
+    "extraResources": [
+      {
+        "from": "resources",
+        "to": "resources"
+      }
+    ],
+    "win": {
+      "icon": "build/icon.ico",
+      "target": [
+        "portable",
+        "nsis"
+      ]
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "installerIcon": "build/installer.ico",
+      "uninstallerIcon": "build/installer.ico",
+      "installerHeaderIcon": "build/installer.ico"
+    }
+  },
+  "devDependencies": {
+    "electron": "^31.0.0",
+    "electron-builder": "^24.13.3"
+  }
+}

@@ -1,0 +1,2467 @@
+{
+  "rev": 101,
+  "state": {
+    "ywx_users": [
+      {
+        "id": "mvls84d3jeoft",
+        "username": "admin01",
+        "password": "admin888",
+        "role": "admin",
+        "name": "演示管理员",
+        "dept": "培训管理组"
+      },
+      {
+        "id": "mvls84d3zy94a",
+        "username": "admin02",
+        "password": "admin888",
+        "role": "admin",
+        "name": "题库管理员",
+        "dept": "培训管理组"
+      },
+      {
+        "id": "mvls84d3w5mig",
+        "username": "admin03",
+        "password": "admin888",
+        "role": "admin",
+        "name": "组卷管理员",
+        "dept": "培训管理组"
+      },
+      {
+        "id": "mvls84d3o8sb4",
+        "username": "admin04",
+        "password": "admin888",
+        "role": "admin",
+        "name": "评分管理员",
+        "dept": "培训管理组"
+      },
+      {
+        "id": "mvls84d38oceg",
+        "username": "admin05",
+        "password": "admin888",
+        "role": "admin",
+        "name": "考务管理员",
+        "dept": "培训管理组"
+      },
+      {
+        "id": "mvls84d310dka",
+        "username": "admin06",
+        "password": "admin888",
+        "role": "admin",
+        "name": "系统管理员",
+        "dept": "培训管理组"
+      },
+      {
+        "id": "mvls84d3rl3e4",
+        "username": "cs06",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服06",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d3t02ij",
+        "username": "cs07",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服07",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d3dkcl4",
+        "username": "cs08",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服08",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d3fcruk",
+        "username": "cs09",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服09",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d3mhcrk",
+        "username": "cs10",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服10",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d33wvpp",
+        "username": "cs11",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服11",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d3tqcqm",
+        "username": "cs12",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服12",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d35lsjr",
+        "username": "cs13",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服13",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d3y6vo7",
+        "username": "cs14",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服14",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d3mc726",
+        "username": "cs15",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服15",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d3fuhl4",
+        "username": "cs16",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服16",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d3wjkz5",
+        "username": "cs17",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服17",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d3tst10",
+        "username": "cs18",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服18",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d3puwpf",
+        "username": "cs19",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服19",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d3cjjsw",
+        "username": "cs20",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服20",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d3ktwcn",
+        "username": "cs21",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服21",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d3r383b",
+        "username": "cs22",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服22",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d3prybe",
+        "username": "cs23",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服23",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d39tchc",
+        "username": "cs24",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服24",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d3a4rs5",
+        "username": "cs25",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服25",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d3nu4va",
+        "username": "cs26",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服26",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d3jcc0b",
+        "username": "cs27",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服27",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d33gd3t",
+        "username": "cs28",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服28",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d31smmz",
+        "username": "cs29",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服29",
+        "dept": "一线客服"
+      },
+      {
+        "id": "mvls84d3vnm70",
+        "username": "cs30",
+        "password": "cs123456",
+        "role": "cs",
+        "name": "客服30",
+        "dept": "一线客服"
+      }
+    ],
+    "ywx_questions": [
+      {
+        "id": "mvls84d3plcqu",
+        "type": "choice",
+        "knowledge": "账号安全",
+        "difficulty": "基础",
+        "score": 10,
+        "stem": "客户反馈账号在异地登录、疑似被盗，正确的第一处理动作是？",
+        "options": [
+          "立即要求客户转账验证身份",
+          "引导客户修改密码并开启设备锁，冻结异常登录",
+          "告知客户无法处理，转交技术",
+          "直接封禁账号"
+        ],
+        "answer": "1",
+        "analysis": "账号安全类投诉优先止损：引导改密+设备锁+冻结异常登录，避免要求转账等二次风险。"
+      },
+      {
+        "id": "mvls84d33ugju",
+        "type": "judge",
+        "knowledge": "充值规则",
+        "difficulty": "基础",
+        "score": 10,
+        "stem": "热血传奇的官方充值渠道仅限游戏内与官网，任何第三方低价代充都属违规，客服应提示风险并引导官方渠道。",
+        "answer": "true",
+        "analysis": "代充多涉及黑产/盗刷，易致封号与资金损失，客服须明确提示风险并引导官方渠道。"
+      },
+      {
+        "id": "mvls84d34slde",
+        "type": "essay",
+        "knowledge": "投诉处理",
+        "difficulty": "进阶",
+        "score": 20,
+        "stem": "请简述当客户因「装备无故消失」情绪激动投诉时，客服的标准处理流程与话术要点。",
+        "answer": "安抚情绪→核实账号与日志→区分正常消耗/BUG/盗号→可恢复的协助恢复并说明时效→不可恢复的致歉+补偿方案→记录案例归档。",
+        "analysis": "评分要点：①先共情安抚不急于辩解；②必须先核实日志再下结论；③区分原因给出不同处置；④闭环补偿与归档。缺任一点扣对应分。"
+      },
+      {
+        "id": "mvls84d3b9fb3",
+        "type": "choice",
+        "knowledge": "违规处理",
+        "difficulty": "实战",
+        "score": 15,
+        "stem": "检测到客户在公屏发布线下交易引流信息，且为第三次违规，按规则应？",
+        "options": [
+          "口头提醒",
+          "禁言1天",
+          "禁言7天并标记重点观察",
+          "永久封禁"
+        ],
+        "answer": "2",
+        "analysis": "三次违规对应阶梯处罚：禁言7天并标记观察，永久封禁需更重违规层级，避免过度处罚引发投诉。"
+      },
+      {
+        "id": "qmvlwpab8v8da4",
+        "type": "choice",
+        "knowledge": "账号安全-异地登录处置",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "客户反馈账号在异地登录、疑似被盗，客服的第一动作应该是？",
+        "options": [
+          "要求客户先转账验证身份",
+          "引导改密+开启设备锁+冻结异常登录",
+          "让客户自行联系第三方代充核实",
+          "直接告知客户无法处理"
+        ],
+        "answer": 1,
+        "analysis": "资料明确：第一动作是引导改密+开启设备锁+冻结异常登录，且严禁要求客户转账验证身份。"
+      },
+      {
+        "id": "qmvlwpab8t0mgx",
+        "type": "judge",
+        "knowledge": "账号安全-身份验证红线",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "为核实账号归属，客服可以要求客户转账一定金额来验证身份。",
+        "options": [],
+        "answer": false,
+        "analysis": "资料明确严禁要求客户转账验证身份，这是账号安全处理的红线。"
+      },
+      {
+        "id": "qmvlwpab8pa992",
+        "type": "choice",
+        "knowledge": "充值规则-官方渠道与第三方代充",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "关于充值渠道，下列说法正确的是？",
+        "options": [
+          "第三方低价代充只要到账即可推荐给客户",
+          "官方充值仅限游戏内与官网，第三方低价代充均属违规",
+          "客服可代客户在第三方平台操作充值",
+          "客户坚持使用第三方代充时客服应协助完成"
+        ],
+        "answer": 1,
+        "analysis": "官方充值仅限游戏内与官网，任何第三方低价代充均属违规，客服须提示风险并引导官方渠道，不得代客操作充值。"
+      },
+      {
+        "id": "qmvlwpab8o9sjt",
+        "type": "judge",
+        "knowledge": "充值规则-代客操作",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "客户不会充值操作时，客服可以登录客户账号代其完成充值。",
+        "options": [],
+        "answer": false,
+        "analysis": "资料规定不得代客操作充值，应引导客户通过游戏内或官网官方渠道自行完成。"
+      },
+      {
+        "id": "qmvlwpab8e2mh1",
+        "type": "choice",
+        "knowledge": "装备找回-处理流程",
+        "difficulty": "进阶",
+        "score": 5,
+        "stem": "客户称装备无故消失，客服的正确处理顺序是？",
+        "options": [
+          "先下结论认定盗号，再安抚客户",
+          "先安抚，再核实账号日志，区分正常消耗/BUG/盗号后处置",
+          "直接拒绝并告知装备无法找回",
+          "要求客户提供转账记录后再核实"
+        ],
+        "answer": 1,
+        "analysis": "装备找回流程为：先安抚，再核实账号日志，区分正常消耗/BUG/盗号；可恢复的协助恢复并说明时效，不可恢复的致歉+补偿方案，最后记录案例归档。"
+      },
+      {
+        "id": "qmvlwpab8lwvdz",
+        "type": "judge",
+        "knowledge": "装备找回-不可恢复处置",
+        "difficulty": "进阶",
+        "score": 5,
+        "stem": "装备经核实不可恢复时，客服应致歉并给出补偿方案，同时记录案例归档。",
+        "options": [],
+        "answer": true,
+        "analysis": "资料规定不可恢复的致歉+补偿方案，最后记录案例归档。"
+      },
+      {
+        "id": "qmvlwpab8esj2b",
+        "type": "choice",
+        "knowledge": "违规处罚-线下交易引流",
+        "difficulty": "进阶",
+        "score": 5,
+        "stem": "客户在公屏发布线下交易引流信息，第三次违规的处罚是？",
+        "options": [
+          "口头提醒",
+          "禁言1天",
+          "禁言7天并标记重点观察",
+          "永久封号"
+        ],
+        "answer": 2,
+        "analysis": "公屏发布线下交易引流信息：第一次口头提醒，第二次禁言1天，第三次禁言7天并标记重点观察。"
+      },
+      {
+        "id": "qmvlwpab8esuis",
+        "type": "judge",
+        "knowledge": "违规处罚-辱骂他人",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "客户在公屏辱骂他人，客服可对其禁言1天。",
+        "options": [],
+        "answer": true,
+        "analysis": "资料规定辱骂他人可禁言1天。"
+      },
+      {
+        "id": "qmvlwpab89vpge",
+        "type": "choice",
+        "knowledge": "投诉处理-情绪安抚与核实",
+        "difficulty": "实战",
+        "score": 5,
+        "stem": "面对情绪激动的投诉客户，客服的正确做法是？",
+        "options": [
+          "立即辩解并指出客户错误",
+          "先共情安抚不急于辩解，核实日志后再下结论",
+          "直接承诺全额补偿以平息情绪",
+          "让客户冷静后再联系，暂不处理"
+        ],
+        "answer": 1,
+        "analysis": "投诉处理要求先共情安抚不急于辩解，核实日志后再下结论，区分原因给出处置，闭环补偿与归档。"
+      },
+      {
+        "id": "qmvlwpab86k52r",
+        "type": "essay",
+        "knowledge": "装备找回-全流程综合",
+        "difficulty": "实战",
+        "score": 10,
+        "stem": "请简述客户反馈装备无故消失时的完整处理流程及关键要点。",
+        "options": [],
+        "answer": "要点：1.先安抚客户情绪；2.核实账号日志；3.区分正常消耗、BUG、盗号三类原因；4.可恢复的协助恢复并说明时效；5.不可恢复的致歉并给出补偿方案；6.记录案例归档。",
+        "analysis": "本题考察装备找回全流程，需覆盖安抚、核实、分类处置、恢复时效说明、补偿与归档，体现流程完整性与客户体验意识。"
+      },
+      {
+        "id": "mvm5f5tz3ms6t",
+        "type": "choice",
+        "knowledge": "沙捐封榜介绍",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "关于沙捐封榜介绍中“对怪吸血10%”的描述，正确处理方式是什么？",
+        "options": [
+          "保留介绍并实际增加吸血",
+          "全区已删除该介绍",
+          "改为对玩家吸血10%",
+          "仅对法师职业生效"
+        ],
+        "answer": "1",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5f6rbf0hm0",
+        "type": "choice",
+        "knowledge": "禁术学习",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "玩家反馈禁术学习之后双击使用会消失，原因和处理是什么？",
+        "options": [
+          "玩家操作错误，无需处理",
+          "脚本名字写错，阿伟已修好",
+          "禁术本身设计会消失",
+          "需要重新学习两次"
+        ],
+        "answer": "1",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5f73nfdabs",
+        "type": "choice",
+        "knowledge": "倍攻计算",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "玩家反馈属性比对面高却打不过低级玩家、几刀被秒，处理结果是什么？",
+        "options": [
+          "强哥修复了倍攻计算脚本",
+          "玩家装备鉴定属性过低",
+          "属于正常设定不处理",
+          "需要重新穿戴装备"
+        ],
+        "answer": "0",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5f78ia3ei8",
+        "type": "choice",
+        "knowledge": "装备血量异常",
+        "difficulty": "进阶",
+        "score": 8,
+        "stem": "51剑甲套穿上后血量没有52级剑甲套高，若修复后仍有问题，客服应建议玩家怎么做？",
+        "options": [
+          "直接重新合成装备",
+          "找NPC随机鉴定一下装备下面的鉴定属性",
+          "联系技术回档",
+          "等待合区后自动恢复"
+        ],
+        "answer": "1",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5f7de0g01m",
+        "type": "choice",
+        "knowledge": "本源装备属性",
+        "difficulty": "进阶",
+        "score": 8,
+        "stem": "法师职业本源装备给的属性是战士的，修复后自行升级的玩家需要如何处理？",
+        "options": [
+          "重新创建角色",
+          "重新穿戴一下装备",
+          "等待系统自动刷新",
+          "找NPC回收装备"
+        ],
+        "answer": "1",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5f7hypsdy1",
+        "type": "choice",
+        "knowledge": "最强王者触发技能",
+        "difficulty": "实战",
+        "score": 10,
+        "stem": "关于最强王者触发几率伤害的技能，以下哪项是作者已添加触发效果的技能？",
+        "options": [
+          "流行火雨",
+          "冰咆哮",
+          "流星火雨",
+          "灭天火"
+        ],
+        "answer": "0",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5f7n20yx7z",
+        "type": "choice",
+        "knowledge": "充值地图检测",
+        "difficulty": "实战",
+        "score": 10,
+        "stem": "关于充值地图，阿伟做了检测后，过十二点检测没有充值的玩家会怎样？",
+        "options": [
+          "继续留在充值地图",
+          "被弹出地图",
+          "自动补发充值",
+          "禁止进入所有地图"
+        ],
+        "answer": "1",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5f7rqrzagh",
+        "type": "choice",
+        "knowledge": "麻痹属性切换地图",
+        "difficulty": "进阶",
+        "score": 8,
+        "stem": "本源给的麻痹属性在打boss换地图后失效，原因是什么？",
+        "options": [
+          "麻痹属性有持续时间",
+          "每次切换地图麻痹属性就会被清",
+          "boss免疫麻痹",
+          "需要重新购买麻痹"
+        ],
+        "answer": "1",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5f7wuqhn69",
+        "type": "choice",
+        "knowledge": "邪神印记",
+        "difficulty": "进阶",
+        "score": 8,
+        "stem": "邪神印记斩杀的血量和属性描述不一致，强哥修复后的结果是什么？",
+        "options": [
+          "斩杀10w血量",
+          "斩杀20w血量并覆盖所有平台",
+          "删除邪神印记",
+          "改为按百分比斩杀"
+        ],
+        "answer": "1",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5f81jagg4i",
+        "type": "choice",
+        "knowledge": "充值地图进入条件",
+        "difficulty": "实战",
+        "score": 10,
+        "stem": "玩家反馈很多没充值的小号也能进入需要真充的地图，阿伟查看后的实际情况是什么？",
+        "options": [
+          "确实需要真充才能进",
+          "只要充值点达到500就可以进，已改介绍",
+          "该地图已关闭",
+          "小号利用了bug，已封号"
+        ],
+        "answer": "1",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5f8zpp894o",
+        "type": "judge",
+        "knowledge": "沙捐封榜吸血属性",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "沙捐封榜介绍中对怪吸血10%的属性是有实际效果的。",
+        "answer": "false",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5f94vs1j43",
+        "type": "judge",
+        "knowledge": "禁术学习使用",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "禁术学习之后，双击使用会导致禁术消失，该问题已修复。",
+        "answer": "true",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5f99iop6wj",
+        "type": "judge",
+        "knowledge": "装备鉴定属性对比",
+        "difficulty": "进阶",
+        "score": 5,
+        "stem": "51剑甲套血量没有52级剑甲套高的问题，若修复后仍有问题，应查看装备下面的鉴定属性是否比低级低，并找NPC随机鉴定。",
+        "answer": "true",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5f9f36cz7k",
+        "type": "judge",
+        "knowledge": "法师本源装备属性",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "法师职业本源装备给的属性是战士的问题，两个平台都已修复，自行升级的玩家需要重新穿戴一下。",
+        "answer": "true",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5f9k4l5lr2",
+        "type": "judge",
+        "knowledge": "最强王者触发技能",
+        "difficulty": "进阶",
+        "score": 5,
+        "stem": "最强王者触发的几率伤害，法师使用流行火雨技能可以正常触发。",
+        "answer": "true",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5f9p6g153z",
+        "type": "judge",
+        "knowledge": "充值地图弹出机制",
+        "difficulty": "实战",
+        "score": 5,
+        "stem": "前一天充值只要不出来就不会弹出充值地图，过十二点检测没有充值就会被弹出地图。",
+        "answer": "true",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5fa3qc1p4o",
+        "type": "judge",
+        "knowledge": "终极剑甲防爆属性",
+        "difficulty": "进阶",
+        "score": 5,
+        "stem": "终极剑甲是合成的且合成很贵，原本不防爆，后改成防爆并在NPC上面加了介绍。",
+        "answer": "true",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5fa936s8ud",
+        "type": "judge",
+        "knowledge": "道士终极宝宝介绍",
+        "difficulty": "实战",
+        "score": 5,
+        "stem": "道士终极宝宝介绍上说是远程群攻的，实际没有，阿伟选择加上群攻远程效果来加强道士。",
+        "answer": "false",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5fb6g2m1bc",
+        "type": "essay",
+        "knowledge": "沙捐封榜对怪吸血介绍与实际不符的处理",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "玩家反馈沙捐封榜介绍写着对怪吸血10%但没有用，客服应如何处理？",
+        "answer": "全区已删除该介绍。",
+        "analysis": "资料第1条明确处理方式为全区删除介绍，答出“删除介绍”即可得分。",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5fbbqryikf",
+        "type": "essay",
+        "knowledge": "禁术学习后双击使用会消失的修复",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "玩家反映禁术学习之后，双击使用会消失，原因和处理是什么？",
+        "answer": "阿伟查看脚本名字写错了，已经修好了。",
+        "analysis": "资料第2条，需答出脚本名字写错并已修复两个要点。",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5fbh408r45",
+        "type": "essay",
+        "knowledge": "倍攻计算脚本错误导致打不过低级玩家",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "玩家反馈自己属性比对面高却打不过低级玩家，几刀被秒，客服如何回复处理？",
+        "answer": "强哥说倍攻计算脚本写错了，已经修复。",
+        "analysis": "资料第3条，答出倍攻计算脚本写错并修复即可。",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5fbm75vbg2",
+        "type": "essay",
+        "knowledge": "51剑甲套血量低于52级剑甲套的处理及后续排查",
+        "difficulty": "进阶",
+        "score": 10,
+        "stem": "玩家反馈51剑甲套穿上后血量没有52级剑甲套高，客服应如何处理和引导玩家后续排查？",
+        "answer": "强哥修复了低级★味儿№好甲★装备血量给多了的问题；如果还有问题，让玩家看装备下面鉴定属性是不是没低级高，找NPC随机鉴定一下。",
+        "analysis": "资料第4条包含修复内容和后续引导两个要点，答全得满分，缺一酌情扣分。",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5fbrbtk65q",
+        "type": "essay",
+        "knowledge": "榜首专属地图弹出神秘领域地图弹窗的处理",
+        "difficulty": "进阶",
+        "score": 10,
+        "stem": "玩家在榜首专属地图打怪时，时不时弹出神秘领域地图弹窗，客服应如何处理？",
+        "answer": "需要问作者，限制弹窗出现的时间间隔。",
+        "analysis": "资料第5条，答出联系作者限制弹窗时间间隔即可得分。",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5fbwmpsgn7",
+        "type": "essay",
+        "knowledge": "账号安全-身份验证红线",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "为核实账号归属，客服可以要求客户转账一定金额来验证身份。",
+        "answer": "两个平台都已修复；自行升级的玩家需要重新穿戴一下。",
+        "analysis": "资料第6条，需答出已修复和自行升级需重新穿戴两个要点。",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5fc1ylqn6m",
+        "type": "essay",
+        "knowledge": "封榜吸血消失导致玩家扛不住怪的处理",
+        "difficulty": "实战",
+        "score": 15,
+        "stem": "玩家反馈本来封榜有10%吸血现在没有了，打怪吸血也没了，扛不住怪，客服应如何跟进处理？",
+        "answer": "小方联系作者了，优化了，现在有吸血了。",
+        "analysis": "资料第7条，需答出联系作者并优化恢复吸血。实战题需体现跟进闭环。",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5fc727p3s9",
+        "type": "essay",
+        "knowledge": "最强王者触发技能范围及流行火雨添加",
+        "difficulty": "实战",
+        "score": 15,
+        "stem": "玩家反馈最强王者触发几率5%伤害，法师用流行火雨技能不触发，只有普通攻击才有用，客服应如何处理？",
+        "answer": "强哥查看后确认只有雷电术、灵魂火符、烈火剑法、刺杀剑术、攻杀剑术、开天斩这几个技能才几率触发；作者说加在流行火雨上，已经添加上了。",
+        "analysis": "资料第8条，需答出触发技能范围和已为流行火雨添加触发两个要点，缺一扣分。",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5fcc5cmof0",
+        "type": "essay",
+        "knowledge": "时装勾选外显却不外显的处理",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "玩家反馈〓银霄·鸿蒙神装〓和〓荒古·至高神剑〓时装勾选了外显但是不外显，客服如何处理？",
+        "answer": "阿伟问作者了，已经修好了。",
+        "analysis": "资料第9条，答出联系作者并修复即可。",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvm5fchavbw5e",
+        "type": "essay",
+        "knowledge": "开狂暴给半月弯刀导致飘群切变慢的处理",
+        "difficulty": "实战",
+        "score": 15,
+        "stem": "玩家反馈开狂暴给的半月技能，飘群切显示还没不开狂暴快，客服应如何处理？",
+        "answer": "强哥找作者确认，开狂暴给半月弯刀就会这样，已取消半月弯刀。",
+        "analysis": "资料第10条，需答出原因（开狂暴给半月弯刀导致）和处理结果（取消半月弯刀）。",
+        "scopeTag": "mvm5d72lmquln"
+      },
+      {
+        "id": "mvn64j6qc7czs",
+        "type": "judge",
+        "difficulty": "基础",
+        "knowledge": "账号安全",
+        "score": 10,
+        "stem": "客户反馈账号在异地登录、疑似被盗，正确的第一处理动作是？",
+        "answer": "true"
+      },
+      {
+        "id": "mvn65gqq6aohf",
+        "type": "essay",
+        "difficulty": "基础",
+        "knowledge": "未分类",
+        "score": 10,
+        "stem": "客户要求退款 怎么办",
+        "answer": "显示耐心解释今天的原因",
+        "analysis": ""
+      },
+      {
+        "id": "mvna6imi22xh7",
+        "type": "choice",
+        "knowledge": "吃饭与岗位值守安排",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "关于吃饭安排，资料要求是什么？",
+        "options": [
+          "所有人同时去吃饭",
+          "吃饭分散开，保持岗位有人在",
+          "必须在工位吃饭",
+          "吃饭时间不限"
+        ],
+        "answer": "1",
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6j5ti1a08",
+        "type": "choice",
+        "knowledge": "请假与调班规定",
+        "difficulty": "进阶",
+        "score": 10,
+        "stem": "根据资料，当天填休息的一律按什么处理？",
+        "options": [
+          "正常休息",
+          "调班处理",
+          "旷工处理，扣除500+当日工资",
+          "警告一次"
+        ],
+        "answer": "2",
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6jbdodn7b",
+        "type": "choice",
+        "knowledge": "工位用餐规定",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "汤汤水水类、味道大的食物应该在哪里吃？",
+        "options": [
+          "工位上",
+          "会议室",
+          "走廊",
+          "休息区随意"
+        ],
+        "answer": "1",
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6jgpxris4",
+        "type": "choice",
+        "knowledge": "下班桌面与椅子归位",
+        "difficulty": "进阶",
+        "score": 10,
+        "stem": "下班桌面保持干净整洁、椅子归位、不用的东西收起来，发现一个如何扣罚？",
+        "options": [
+          "100起扣",
+          "200起扣",
+          "300起扣",
+          "500起扣"
+        ],
+        "answer": "1",
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6jlmsuptu",
+        "type": "choice",
+        "knowledge": "大声喧哗与扎堆聊天处罚",
+        "difficulty": "进阶",
+        "score": 10,
+        "stem": "不准大声喧哗、禁止扎堆聊天，发现一次如何处罚？",
+        "options": [
+          "仅扣发起人200",
+          "在场人员每人扣除200",
+          "在场人员每人扣除500",
+          "警告一次不扣款"
+        ],
+        "answer": "1",
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6jqh07s30",
+        "type": "choice",
+        "knowledge": "漏回消息处罚规则",
+        "difficulty": "实战",
+        "score": 15,
+        "stem": "关于漏回消息，以下说法正确的是？",
+        "options": [
+          "第一次一条扣100",
+          "第一次一条扣200，第二次扣除当月绩效，超过5次优化",
+          "超过3次优化",
+          "第二次仅警告"
+        ],
+        "answer": "1",
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6jv4zzazm",
+        "type": "choice",
+        "knowledge": "机械化回复的认定与处罚",
+        "difficulty": "实战",
+        "score": 15,
+        "stem": "以下哪种情形属于资料中“机械化回复”的典型表现？",
+        "options": [
+          "玩家急躁时仍用聊天死板的机械化回复，激化玩家矛盾",
+          "玩家问题未处理完时留言说明原由",
+          "下班前与接班客服做好交接",
+          "在会议室吃饭"
+        ],
+        "answer": "0",
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6jzsd6pdf",
+        "type": "choice",
+        "knowledge": "玩家问题未处理完的留言要求",
+        "difficulty": "实战",
+        "score": 15,
+        "stem": "玩家问题没处理完、需要时间时，客服应该怎么做？",
+        "options": [
+          "直接说这边下班了",
+          "不回复等待接班客服处理",
+          "跟玩家留言说清楚原由",
+          "随意处理玩家问题"
+        ],
+        "answer": "2",
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6lcpajkhe",
+        "type": "judge",
+        "knowledge": "工作时间禁止无关事项",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "工作时间内长时间玩手机、刷视频、玩游戏等与工作无关的事项，违规五百起扣。",
+        "answer": "true",
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6lhk72r4t",
+        "type": "judge",
+        "knowledge": "离岗与回复时效",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "上班时间离开工位和回复客服时间可以超过半小时，只要当天工作完成即可。",
+        "answer": "false",
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6ln5gtzq0",
+        "type": "judge",
+        "knowledge": "请假与调班管理",
+        "difficulty": "进阶",
+        "score": 5,
+        "stem": "当天请假休息一律按旷工处理，扣除500元加当日工资；特殊情况调班需有人顶班并提前通知。",
+        "answer": "true",
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6lsh9qlk2",
+        "type": "judge",
+        "knowledge": "工位用餐规范",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "汤汤水水类、味道大的食物不允许在工位吃，应统一到会议室用餐。",
+        "answer": "true",
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6lxu2ldzq",
+        "type": "judge",
+        "knowledge": "下班桌面规范",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "下班桌面保持干净整洁、椅子归位、不用的东西收起来，发现一个200起扣，且早班晚班一起考核。",
+        "answer": "true",
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6m35bwbuw",
+        "type": "judge",
+        "knowledge": "工作纪律与扎堆聊天",
+        "difficulty": "进阶",
+        "score": 5,
+        "stem": "不准大声喧哗、禁止扎堆聊天，发现一次仅对主要发言人员扣除200元。",
+        "answer": "false",
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6m8atr58n",
+        "type": "judge",
+        "knowledge": "漏回消息处罚",
+        "difficulty": "进阶",
+        "score": 5,
+        "stem": "漏回消息第一次一条扣200，第二次扣除当月绩效，超过5次将被优化。",
+        "answer": "true",
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6mddqrj29",
+        "type": "judge",
+        "knowledge": "机械化回复判定",
+        "difficulty": "实战",
+        "score": 5,
+        "stem": "玩家遇到问题急躁时，客服仍使用机械化回复激化玩家矛盾，发现一次扣200。",
+        "answer": "true",
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6miqwxn3s",
+        "type": "judge",
+        "knowledge": "交接与玩家问题处理",
+        "difficulty": "实战",
+        "score": 5,
+        "stem": "工作不交接、故意拖沓给接班客服、随意处理玩家问题不严谨的，发现一次扣500。",
+        "answer": "true",
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6mo1khm15",
+        "type": "judge",
+        "knowledge": "未处理完问题的留言要求",
+        "difficulty": "实战",
+        "score": 5,
+        "stem": "玩家问题没处理完且需要时间的，可以直接告诉玩家“这边下班了”，无需留言说明原由。",
+        "answer": "false",
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6nw95d8kx",
+        "type": "essay",
+        "knowledge": "工作时间行为规范——禁止做与工作无关事项",
+        "difficulty": "基础",
+        "score": 10,
+        "stem": "客服在上班时间长时间刷短视频、玩游戏，属于什么违规行为？依据资料应如何处理？",
+        "answer": "属于工作时间内做与工作无关的事项。资料明确禁止长时间玩手机、刷视频、玩游戏、追剧、闲聊、网购、看公众号等行为，违规五百起扣。",
+        "analysis": "答出“做与工作无关事项”及具体举例得基础分；答出“违规五百起扣”得满分。未引用扣款标准酌情扣分。",
+        "rubric": [
+          {
+            "key": "属于工作时间内做与工作无关的事项",
+            "weight": 1.7
+          },
+          {
+            "key": "资料明确禁止长时间玩手机",
+            "weight": 1.7
+          },
+          {
+            "key": "刷视频",
+            "weight": 1.7
+          },
+          {
+            "key": "玩游戏",
+            "weight": 1.7
+          },
+          {
+            "key": "看公众号等行为",
+            "weight": 1.7
+          },
+          {
+            "key": "违规五百起扣",
+            "weight": 1.7
+          }
+        ],
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6o1lg4n9w",
+        "type": "essay",
+        "knowledge": "在岗管理——离岗与回复时效",
+        "difficulty": "基础",
+        "score": 10,
+        "stem": "客服离开工位或回复客服的时间上限是多少？违反该规定如何处理？",
+        "answer": "离开工位和回复客服时间不得超过半小时。上班时间不懒散，禁止长时间脱离工作岗位，违规五百起扣。",
+        "analysis": "准确答出“半小时”上限为核心得分点；答出“违规五百起扣”加分。混淆时间或漏答扣款标准酌情扣分。",
+        "rubric": [
+          {
+            "key": "离开工位和回复客服时间不得超过半小时",
+            "weight": 2.5
+          },
+          {
+            "key": "上班时间不懒散",
+            "weight": 2.5
+          },
+          {
+            "key": "禁止长时间脱离工作岗位",
+            "weight": 2.5
+          },
+          {
+            "key": "违规五百起扣",
+            "weight": 2.5
+          }
+        ],
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6o6ymtm4r",
+        "type": "essay",
+        "knowledge": "就餐与抽烟管理规范",
+        "difficulty": "基础",
+        "score": 10,
+        "stem": "关于客服人员吃饭和抽烟，资料中有哪些具体要求？",
+        "answer": "吃饭要分散开，保持岗位有人在；汤汤水水类、味道大的不允许在工位吃饭，统一到会议室；抽烟人员不许成群结队。",
+        "analysis": "答出“吃饭分散、保持岗位有人”“味道大/汤水类到会议室”“抽烟不许成群结队”三个要点得满分，每漏一点扣相应分值。",
+        "rubric": [
+          {
+            "key": "吃饭要分散开",
+            "weight": 1.7
+          },
+          {
+            "key": "保持岗位有人在",
+            "weight": 1.7
+          },
+          {
+            "key": "汤汤水水类",
+            "weight": 1.7
+          },
+          {
+            "key": "味道大的不允许在工位吃饭",
+            "weight": 1.7
+          },
+          {
+            "key": "统一到会议室",
+            "weight": 1.7
+          },
+          {
+            "key": "抽烟人员不许成群结队",
+            "weight": 1.7
+          }
+        ],
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6oc12c8g2",
+        "type": "essay",
+        "knowledge": "请假与调班管理",
+        "difficulty": "进阶",
+        "score": 15,
+        "stem": "客服当天临时请假或调班，资料规定应如何处理？若当天填写休息会怎样认定和处罚？",
+        "answer": "不允许当天请假休息；特殊情况调班需有人顶班，并提前通知。在有当天填休息的一律按旷工处理，扣除500元加当日工资。",
+        "analysis": "答出“不允许当天请假”“调班需顶班且提前通知”“当天填休息按旷工，扣500+当日工资”三个层次得满分；处罚标准答错或漏答扣分。",
+        "rubric": [
+          {
+            "key": "不允许当天请假休息",
+            "weight": 3
+          },
+          {
+            "key": "特殊情况调班需有人顶班",
+            "weight": 3
+          },
+          {
+            "key": "并提前通知",
+            "weight": 3
+          },
+          {
+            "key": "在有当天填休息的一律按旷工处理",
+            "weight": 3
+          },
+          {
+            "key": "扣除500元加当日工资",
+            "weight": 3
+          }
+        ],
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6ogx2zsio",
+        "type": "essay",
+        "knowledge": "下班桌面与工位整洁规范",
+        "difficulty": "基础",
+        "score": 10,
+        "stem": "下班时桌面和椅子应达到什么标准？违规如何扣罚？早班和晚班的责任如何划分？",
+        "answer": "下班桌面保持干净整洁，椅子归位，不用的东西收起来。发现一个200起扣，早班、晚班一起承担责任。",
+        "analysis": "答出整洁标准（干净、椅子归位、物品收起）和“一个200起扣”得基础分；答出“早班晚班一起”得满分。",
+        "rubric": [
+          {
+            "key": "下班桌面保持干净整洁",
+            "weight": 2
+          },
+          {
+            "key": "椅子归位",
+            "weight": 2
+          },
+          {
+            "key": "不用的东西收起来",
+            "weight": 2
+          },
+          {
+            "key": "发现一个200起扣",
+            "weight": 2
+          },
+          {
+            "key": "晚班一起承担责任",
+            "weight": 2
+          }
+        ],
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6olu4bx6q",
+        "type": "essay",
+        "knowledge": "工作纪律——喧哗与扎堆聊天",
+        "difficulty": "基础",
+        "score": 10,
+        "stem": "客服在工作区域大声喧哗或扎堆聊天，资料规定如何处罚？处罚对象是谁？",
+        "answer": "不准大声喧哗，禁止扎堆聊天，发现一次在场人员每人扣除200元。",
+        "analysis": "答出“禁止大声喧哗、扎堆聊天”及“在场人员每人扣200”得满分；只答行为未答处罚对象或金额酌情扣分。",
+        "rubric": [
+          {
+            "key": "不准大声喧哗",
+            "weight": 3.3
+          },
+          {
+            "key": "禁止扎堆聊天",
+            "weight": 3.3
+          },
+          {
+            "key": "发现一次在场人员每人扣除200元",
+            "weight": 3.3
+          }
+        ],
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6oqpjncq9",
+        "type": "essay",
+        "knowledge": "消息回复管理——漏回消息处罚阶梯",
+        "difficulty": "进阶",
+        "score": 15,
+        "stem": "请说明漏回消息的处罚阶梯：第一次、第二次以及超过5次分别如何处理？",
+        "answer": "漏回消息第一次一条扣200元；第二次扣除当月绩效；超过5次予以优化。",
+        "analysis": "三个阶梯全部答对得满分；顺序或对应关系错误酌情扣分。重点考察对递进式处罚标准的准确记忆。",
+        "rubric": [
+          {
+            "key": "漏回消息第一次一条扣200元",
+            "weight": 5
+          },
+          {
+            "key": "第二次扣除当月绩效",
+            "weight": 5
+          },
+          {
+            "key": "超过5次予以优化",
+            "weight": 5
+          }
+        ],
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6ovtf1vov",
+        "type": "essay",
+        "knowledge": "服务话术——机械化回复的认定与处罚",
+        "difficulty": "进阶",
+        "score": 15,
+        "stem": "什么是机械化回复？资料中列举了哪些具体情形？发现一次如何处罚？",
+        "answer": "机械化回复指聊天死板；玩家遇到问题、急躁情况下仍用机械化回复，激化玩家矛盾。发现一次扣200元。",
+        "analysis": "答出“聊天死板”及“玩家急躁时仍机械回复激化矛盾”两个认定情形得主要分值；答出“一次200”得满分。仅答扣款未答认定情形扣分。",
+        "rubric": [
+          {
+            "key": "机械化回复指聊天死板",
+            "weight": 3
+          },
+          {
+            "key": "玩家遇到问题",
+            "weight": 3
+          },
+          {
+            "key": "急躁情况下仍用机械化回复",
+            "weight": 3
+          },
+          {
+            "key": "激化玩家矛盾",
+            "weight": 3
+          },
+          {
+            "key": "发现一次扣200元",
+            "weight": 3
+          }
+        ],
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6p0pgjy4m",
+        "type": "essay",
+        "knowledge": "工作交接与玩家问题处理严谨性",
+        "difficulty": "实战",
+        "score": 15,
+        "stem": "客服交接班时工作不交接、故意拖沓给接班客服、随意处理玩家问题不严谨，属于什么违规？应如何处理？",
+        "answer": "属于工作不交接、故意拖沓给接班客服、随意处理玩家问题不严谨的违规行为，发现一次扣500元。",
+        "analysis": "需完整识别“不交接”“故意拖沓”“随意处理不严谨”三种情形并答出“一次500”处罚。情形遗漏或金额错误按比例扣分。",
+        "rubric": [
+          {
+            "key": "属于工作不交接",
+            "weight": 3.8
+          },
+          {
+            "key": "故意拖沓给接班客服",
+            "weight": 3.8
+          },
+          {
+            "key": "随意处理玩家问题不严谨的违规行为",
+            "weight": 3.8
+          },
+          {
+            "key": "发现一次扣500元",
+            "weight": 3.8
+          }
+        ],
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6p5lt9pes",
+        "type": "essay",
+        "knowledge": "玩家问题未完结的留言规范与正向激励",
+        "difficulty": "实战",
+        "score": 20,
+        "stem": "玩家问题没处理完且需要时间时，客服应如何做？哪些做法被明确禁止？另外，聊天记录抽查中表现优秀可获得什么奖励？",
+        "answer": "玩家问题没处理完、需要时间的，一定要跟玩家留言，说清楚原由；不允许只说“这边下班了”敷衍玩家，发现一次扣200元。每月不定时抽查聊天记录，发现玩家反馈好、整个流程顺畅、可供别人学习的，奖励200-500元。",
+        "analysis": "答出“留言说明原由”及禁止“只说下班了敷衍玩家、一次扣200”得主要分值；答出正向激励“200-500元”得满分。本题综合考察服务规范与激励机制，漏答任一部分按比例扣分。",
+        "rubric": [
+          {
+            "key": "玩家问题没处理完",
+            "weight": 1.8
+          },
+          {
+            "key": "需要时间的",
+            "weight": 1.8
+          },
+          {
+            "key": "一定要跟玩家留言",
+            "weight": 1.8
+          },
+          {
+            "key": "说清楚原由",
+            "weight": 1.8
+          },
+          {
+            "key": "不允许只说“这边下班了”敷衍玩家",
+            "weight": 1.8
+          },
+          {
+            "key": "发现一次扣200元",
+            "weight": 1.8
+          },
+          {
+            "key": "每月不定时抽查聊天记录",
+            "weight": 1.8
+          },
+          {
+            "key": "发现玩家反馈好",
+            "weight": 1.8
+          },
+          {
+            "key": "整个流程顺畅",
+            "weight": 1.8
+          },
+          {
+            "key": "可供别人学习的",
+            "weight": 1.8
+          },
+          {
+            "key": "奖励200-500元",
+            "weight": 1.8
+          }
+        ],
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6q2hg5ldw",
+        "type": "choice",
+        "knowledge": "离岗与回复时间限制",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "资料规定，离开工位和回复客服时间不得超过多久？",
+        "options": [
+          "10分钟",
+          "20分钟",
+          "半小时",
+          "1小时"
+        ],
+        "answer": "2",
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvna6sopw6xhw",
+        "type": "choice",
+        "knowledge": "工作时间内禁止无关事项",
+        "difficulty": "基础",
+        "score": 5,
+        "stem": "根据资料，以下哪项属于工作时间内被明确禁止的与工作无关事项？",
+        "options": [
+          "长时间玩手机、刷视频、玩游戏、追剧、闲聊、网购、看公众号",
+          "在会议室吃饭",
+          "下班后整理桌面",
+          "提前通知调班"
+        ],
+        "answer": "0",
+        "scopeTag": "mvna5pdtd5yt6"
+      },
+      {
+        "id": "mvnadr9e1mhon",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledge": "账号安全",
+        "score": 10,
+        "stem": "客户反馈账号在异地登录、疑似被盗，正确的第一处理动作是？",
+        "scopeTag": "mvna5pdtd5yt6",
+        "options": [
+          "感受到",
+          "公司"
+        ],
+        "answer": "0"
+      }
+    ],
+    "ywx_scopes": [
+      {
+        "id": "mvna7lp6rcup9",
+        "title": "工作制度·出题资料",
+        "period": "",
+        "content": "1. 禁止工作时间内做与工作无关的事项，包含长时间玩手机、刷视频、玩游戏、追剧、闲聊、网购、看公众号违规五百起扣\n\n2.上班时间不懒散，禁止长时间脱离工作岗位，离开工位和回复客服时间不得超过半小时.违规五百起扣\n\n\n4.抽烟人员不许成群结队，\n\n\n3.吃饭分散开，保持岗位有人在\n\n\n4.不允许当天请假休息，特殊情况调班需有人顶班，提前通知，在有当天填休息的一律按旷工处理，扣除500+当日工资\n\n\n5.汤汤水水类，味道大的不允许在工位吃饭，统一到会议室\n\n\n6.下班桌面保持干净整洁，椅子归位，不用的东西收起来，发现一个200起扣（早班，晚班一起）\n\n\n7.不准大声喧哗，禁止扎堆聊天 发现一次  在场人员每人扣除200\n\n\n8.漏回消息第一次一条200 第二次扣除当月绩效  超过5次 优化\n\n\n9.机械化回复玩家，发现一次200（聊天死板，玩家遇到问题，急躁情况下，还是用机械化回复，激化玩家矛盾）\n\n\n10.工作不交接，故意拖沓给接班客服，随意处理玩家问题 不严谨的 发现一次500\n\n\n11.玩家问题没处理完，需要时间的，一定要跟玩家留言，说清楚原由。不允许就说这边下班了，敷衍玩家，发现一次扣200\n\n\n12.每月不定时抽查聊天记录，发现玩家反馈好的，整个流程顺畅，可以供别人学习的，奖励200-500",
+        "examId": "",
+        "createdAt": "2026/10/25 11:42:15"
+      },
+      {
+        "id": "mvna5pdtd5yt6",
+        "title": "工作制度",
+        "period": "1032",
+        "content": "1. 禁止工作时间内做与工作无关的事项，包含长时间玩手机、刷视频、玩游戏、追剧、闲聊、网购、看公众号违规五百起扣\n\n2.上班时间不懒散，禁止长时间脱离工作岗位，离开工位和回复客服时间不得超过半小时.违规五百起扣\n\n\n4.抽烟人员不许成群结队，\n\n\n3.吃饭分散开，保持岗位有人在\n\n\n4.不允许当天请假休息，特殊情况调班需有人顶班，提前通知，在有当天填休息的一律按旷工处理，扣除500+当日工资\n\n\n5.汤汤水水类，味道大的不允许在工位吃饭，统一到会议室\n\n\n6.下班桌面保持干净整洁，椅子归位，不用的东西收起来，发现一个200起扣（早班，晚班一起）\n\n\n7.不准大声喧哗，禁止扎堆聊天 发现一次  在场人员每人扣除200\n\n\n8.漏回消息第一次一条200 第二次扣除当月绩效  超过5次 优化\n\n\n9.机械化回复玩家，发现一次200（聊天死板，玩家遇到问题，急躁情况下，还是用机械化回复，激化玩家矛盾）\n\n\n10.工作不交接，故意拖沓给接班客服，随意处理玩家问题 不严谨的 发现一次500\n\n\n11.玩家问题没处理完，需要时间的，一定要跟玩家留言，说清楚原由。不允许就说这边下班了，敷衍玩家，发现一次扣200\n\n\n12.每月不定时抽查聊天记录，发现玩家反馈好的，整个流程顺畅，可以供别人学习的，奖励200-500",
+        "examId": "",
+        "createdAt": "2026/10/25 11:40:46"
+      },
+      {
+        "id": "mvm5d72lmquln",
+        "title": "当日bug交接表",
+        "period": "",
+        "content": "【第 1 条】\n沙捐封榜介绍对怪吸血10%没有用\n处理：全区已删介绍\n\n【第 2 条】\n禁术学习之后，双击使用了会消失\n处理：阿伟看脚本名字写错了，已经修好了\n\n【第 3 条】\n说什么都比对面高 打不过低级玩家 几刀被秒\n处理：强哥说倍攻计算脚本写错了修复了\n\n【第 4 条】\n51剑甲套穿上  血量没有穿52级剑甲套高\n处理：强哥修复了 低级的★味儿№好甲★装备 血量给多了                                           如果还有问题 看装备下面鉴定属性是不是没低级高  找npc随机鉴定一下\n\n【第 5 条】\n在榜首专属地图打怪   时不时弹出神秘领域地图弹窗\n处理：需要问作者 限制弹窗出现的时间间隔\n\n【第 6 条】\n法师职业，本源装备给的属性是战士的\n处理：两个平台都已修复，自行升级的需要重新穿戴一下\n\n【第 7 条】\n本来封榜有10%吸血 现在没有了    打怪吸血也没了   玩家反馈扛不住怪\n处理：小方联系作者了 优化了现在有吸血了\n\n【第 8 条】\n最强王者触发的几率百分之5伤害，法师用流行火雨技能不触发，只有普通攻击才有用\n处理：强哥看这几个技能才几率触发：雷电术、灵魂火符、烈火剑法、刺杀剑术、攻杀剑术、开天斩                      （作者说加在流行火雨上，已经添加上了 ）\n\n【第 9 条】\n〓银霄·鸿蒙神装〓  和  〓荒古·至高神剑〓\n时装勾选了外显  但是不外显  没有用\n处理：阿伟问作者了   修好了\n\n【第 10 条】\n开狂暴给的半月技能，飘群切显示还没不开狂暴的快\n处理：强哥找作者，开狂暴给半月弯刀就会这样，取消了半月弯刀\n\n【第 11 条】\n前一天充值只要不出来就不会弹出去充值地图\n处理：阿伟做了检测，过十二点检测没有充值就回被弹出地图\n\n【第 12 条】\n问顶榜有没有封榜\n处理：阿伟说问作者了，作者说先不改，暂时捐献没爆掉的   不需要处理  这个是每天清除的\n\n【第 13 条】\n四大陆收集56-57级装备，要在六大陆塔里爆出，下大陆需要当前大陆收集满，散人打不到，可以通过大米一键收集，玩家接受不了\n处理：小方反馈给作者，加爆率还是其他优化方案\n\n【第 14 条】\n领取礼包给的终极吸怪  转职之后只能补领初级的吸怪\n处理：强哥看脚本没问题  如果领取终极吸怪的礼包转职补领也是终极 目前帮这个玩家调成终极吸怪了 后面看还有没有其他玩家出现这样的情况\n\n【第 15 条】\n完美的首饰衣服 没有自动分解  只能手动分解 爆出太多了  挂机一会就满背包了\n处理：强哥发作者问了 看下能否添加自动分解\n\n【第 16 条】\n法师 地爆天星 技能释放没有特效效果\n处理：小许发作者问了，作者暂时还没有回复，修复了，没特效的删除文件包重新进游戏\n\n【第 17 条】\nf12里面的走位捡物没有用，其他版本有用，我上号也测试了，跟玩家说的情况一样\n处理：找阿伟看了，明天问插件吧。。。。这里便没有你那个选项\n\n【第 18 条】\n充值地图怪刷新位置正常走不过去，只能碰巧随机飞过去才能打到，全屏吸怪也吸不到\n处理：强哥 缩小地图刷怪范围  重启生效\n\n【第 19 条】\n本源给的麻痹 打boss换地图打 麻痹就没用了              除非重新关掉  重新开才有效\n处理：每次切换地图麻痹属性就会清  强哥修复了\n\n【第 20 条】\n鼠(稀有) 文本写错了 爆不出来\n处理：阿伟查了 已经修复了 ，现在正常打怪爆出\n\n【第 21 条】\n可以重复领取通关奖励，只要其他任务都做完，生肖鉴定卡到3个，小退再上就能再领取\n处理：测试过了，是可以的，强哥已经修复了\n\n【第 22 条】\n新区开区首杀没开，打怪没给奖励也不显示名额\n处理：强哥没找到原因，读取不到，角色小退下就好了\n\n【第 23 条】\n说怪物在安全区可以杀死玩家\n处理：强哥修复了 写了清怪的脚本\n\n【第 24 条】\n邪神印记  斩杀的血量和属性描述不一致\n处理：强哥修复成了斩杀20w血量 并且覆盖了了所有平台\n\n【第 25 条】\n首爆奖励打到了没有给，名额也没有减少\n处理：强哥看了有问题 还没有修好\n\n【第 26 条】\n这个地图需要真充，但是很多没有充值的小号都可以进去\n处理：阿伟看实际是不需要的，只要充值点达到500就可以，改了介绍\n\n【第 27 条】\n终极剑甲是合成的 而且合成很贵 但是不防爆\n处理：问了李敏  找强哥改成防爆的了 npc上面也加了介绍\n\n【第 28 条】\n10点半的狂暴战场提前结束了\n处理：小方查了时间设置短了 已经改了\n\n【第 29 条】\n5大陆的670级、673级、676级、680级地图 卡怪了\n处理：强哥修改了刷怪的范围 合区或者重启生效\n\n【第 30 条】\n新区活动到时间没有开启\n处理：阿伟修复了\n\n【第 31 条】\n道士终极宝宝没有用，介绍上说是远程群攻的，实际是没有的\n处理：阿伟把群攻远程介绍去掉了，加上的话道士加强了，怕对pk有影响\n\n【第 32 条】\n没有自动的分解按钮，不方便挂机\n处理：阿伟问了作者，加了自动分解\n\n【第 33 条】\n可以用野蛮+回城直接飞走\n处理：强哥发公告 修改了 回城跟随机的CD延长到4秒\n\n【第 34 条】\n神通+5、+6给的都是150点攻击\n处理：小方看是介绍错了 现在已经修改\n\n【第 35 条】\n十步一杀 全屏吸怪 野蛮技能cd冷却时间到了 提示蓝色失败提示  提示完以后cd时间又重新要等冷却  偶尔会这样 不是一直都这样\n处理：目前找来一个玩家，阿伟说暂时不动，不是经常这样，找来人多再说\n\n【第 36 条】\n红包自动吃货币吃的太慢了，背包很快就满了\n处理：小许调整了 1秒吃一个\n\n【第 37 条】\n神珠本源npc，属性是跟着升级这件装备的人物走的\n处理：已经联系小许，全平台加上提示\n\n【第 38 条】\n玩家是新区的 杀神币换不了元宝 提示新区才能换\n处理：阿伟修复了\n\n【第 39 条】\n天外有天，NPC提示必爆天赋碎片，实际没爆\n处理：阿伟已修复\n\n【第 40 条】\n7级神火升8级神火，血量降低了\n处理：强哥修了，脚本里没写8级神火属性\n\n【第 41 条】\n图鉴激活28阶装备没有给属性\n处理：作者写脚本重新修复了 可能会有玩家点的26、27阶没了 补140币重新点\n\n【第 42 条】\n捐献元宝榜爆了\n处理：找作者给捐献量调了 捐1w后面数值是w了几乎不会爆了\n\n【第 43 条】\n穿升级后的时装  无法进入这个地\n处理：小方添加了现在可以了\n\n【第 44 条】\n卡两个宝瓶，终极套本身伤害就能秒人，垃圾套装带两个奶瓶也能秒人，这样终极套没用了，终极套跟垃圾的血量只高了3w\n处理：问玩家  买了就能直接戴上去 版本开一个月了 李敏建议不改 （小丁也建议不改）\n\n【第 45 条】\n领取的5888冲值回馈+10%伤害吸收没有\n处理：阿伟修复了，领了后边的回馈，5888充值回馈领取的+10伤害吸收就没了\n\n【第 46 条】\n打一晚上怪，签到那边显示今日已击杀0怪，是怪物血量问题\n处理：怪物血量显示很高，但实际是没有这么高的\n\n【第 47 条】\n刷完美点\n处理：强哥已经修复了，第一个找来的玩家给了bug 奖励\n\n【第 48 条】\n图鉴页面 杀神币数量 跳来跳去的每次点开显示需要的数量不一样  强哥反馈给作者了\n处理：强哥发作者了 等作者查找问题修复 /已经修复\n\n【第 49 条】\n限时地图正常时间到就出来 但用坐标石传送 就没有时间\n处理：强哥 加了限制   已经记录的 需要手动清楚\n\n【第 50 条】\n可以卡生命神珠的本源神力 法师和道士可以带战士的本源神力 可以加很多的血（血量是以百分比计算）  方法：准备两个珠子，交易给一个正常满号的玩家 两个珠子右击来回穿戴一下，就卡上了，再交易回去就行了\n处理：已修复 视频在WU4群里面\n\n【第 51 条】\n十步一杀需要背包神器配合\n处理：小方查没有背包神器，阿伟看介绍错了,跟背包神器没关系,冰冻是（恐怖空间·杀 194 189 万法归一）给的,找小伙重新配置了登录器,再有玩家找来的资源修复重新上这个介绍就没有了\n\n【第 52 条】\n时装地图每次进去都没有怪\n处理：小方查了确实没有怪 找作者添加了\n\n【第 53 条】\n捐献不符问题，只要输入1 输入十个左右就可以卡上去了\n处理：阿伟已修复，现在排名上不对的发技术调整之后后续就不会在出现了\n\n【第 54 条】\n首爆的奖励还是没有给\n处理：阿伟联系作者说是修复了\n\n【第 55 条】\n装备图鉴点完了  消失了\n处理：阿伟又又又联系作者修复了，今天遇到两个小许查了没有记录，补了288左右游戏币给了玩家\n\n【第 56 条】\n魔王降世地图120分钟刷一只BOSS   除了第一次其他都没有刷\n处理：阿伟联系作者说是修改了  120分钟刷一只\n\n【第 57 条】\n回收材料 会提示扣除元宝\n处理：实际不扣 只是会显示  阿伟修复了\n\n【第 58 条】\n月灵系统 二十万月灵了  没给这个称号\n处理：阿伟看过了，到百万年才能给这个称号，介绍错了，修改了介绍\n\n【第 59 条】\n先天炼体npc，十重给的圆满称号，介绍给解锁专属高爆地图，是桃源之门，但是进只要5重\n处理：强哥删了专属高爆地图的介绍\n\n【第 60 条】\n土城可以召唤这么多宝宝\n处理：目前这边只有一个人反馈  反馈多的话 再找技术改一下\n\n【第 61 条】\n狂暴战场，在外面给小号上毒，大号不用进，别人杀死都算外面这个大号的\n处理：强哥已经修复\n\n【第 62 条】\n群雄争霸地图 活动结束了也不会自动传送出来 也没有领奖的npc\n处理：小方看没设置领奖npc 先给找来的补了300币 已修复 后面有npc领奖了\n\n【第 63 条】\n极品属性6升7  提示需要300神力碎片+500神石  实际只需要背包里材料大于150就可以\n处理：强哥已修复 改成跟介绍一样了 全平台覆盖\n\n【第 64 条】\n玩家战力 切割，血量会掉\n处理：是称号富可敌国，需要背包有500杀神币\n\n【第 65 条】\n介绍写的项链增加1.2神力倍攻  实际没给这个属性\n处理：考虑到这个版本上快两个月 强哥把NPC写的给1.2倍神力的介绍去掉了\n\n【第 66 条】\n很多人说战士和法师职业不平衡，法师加的属性比战士的多，能轻松杀死战士\n处理：阿伟找作者测试看过了，现在改成在pk状态下，攻击人物或者被人物攻击，吸血无效\n\n【第 67 条】\n同样的时装，男衣服有破护身   女的没有\n处理：强哥看实际有属性的，只是介绍上没有加，在介绍上加了\n\n【第 68 条】\n葫芦带破复活 法师打人不触发  战士打人能触发\n处理：魔法攻击没用  强哥修了\n\n【第 69 条】\n影之宝藏地图，用BOSS卷在公共方地图无限刷怪，刷货币材料\n处理：阿伟修的，现在限制只能再里面召唤5只\n\n【第 70 条】\n除了飞皇宫 飞其他三个地方都是飞到野外\n处理：强哥已修，脚本坐标写错了\n\n【第 71 条】\n写的只扣货币，但实际上还会扣金鳞币材料\n处理：阿伟已修改，介绍修成失败会扣除货币+材料\n\n【第 72 条】\n挂机的时候 被客服拉回城 还是挂机状态在土城外面乱跑\n处理：阿伟修了 现在传回城 不会触发挂机状态了\n\n【第 73 条】\n自动吃红包 吃的太慢了 背包一会就满了\n处理：小许调整了 1秒吃一次，先改了这个区 1212   没问题的话 再覆盖\n\n【第 74 条】\n怪物刷到墙里打不到\n处理：阿伟修改了刷怪范围，合区后生效\n\n【第 75 条】\n夺宝奇兵多个人拥有这个称号，一个区应该只能一个人有\n处理：强哥找作者进行优化了   10.14日早上作者重新修了一下\n\n【第 76 条】\n攻魔道属性可以卡的很高\n处理：阿伟修了  1.转移和被转移（被转的进度条10）放到里面 2.勾选自动回收（转移的能被回收掉）3.满背包自动回收后，被转移的回收了，框里的也对应被回收了，但是属性还在  4.然后点npc转移以后属性会转到被转移的装备上，被转移装备的进度条也会随之变0，反复操作叠加属性\n\n【第 77 条】\n戴一个月灵战戒，再戴一个光辉战戒，属性没有戴2个光辉战戒属性高\n处理：阿伟看了属性是有问题，单个的装备属性没有加上，现在加上了\n\n【第 78 条】\n法宝满10阶 进不去法宝地图\n处理：强哥说法宝地图进不去的修复了\n\n【第 79 条】\n这两个装备只能通过活动怪爆出，没有其他途径，开区到现在5天没有几个玩家打到过\n处理：小许联系作者了，现在增加了五大陆的怪也爆  已经加好了\n\n【第 80 条】\n玩家佩戴高级的切割  没有低级的切割装备高\n处理：强哥修复了，现在正常                         更高级神牛的装备打怪伤害也没给对，阿伟修复了\n\n【第 81 条】\n作者暗调降低了打架人物死亡爆出装备的几率\n处理：已降低，属于暗调，不可告知玩家\n\n【第 82 条】\n触发红名就会一直无敌\n处理：强哥看了触发了红名保护才会导致玩家触发红名之后两方都不掉血（大于等于300级），问了作者现在把保护修改成120级了（泡点到250级）\n\n【第 83 条】\n法道伤害太高，充350的法师，几下把充1万的战士砸没血了\n处理：小方联系作者调整法道伤害，进行优化\n\n【第 84 条】\n红包自动吃的太慢了 满背包了 影响打怪捡取装备\n处理：强哥修了 原三秒自动吃一次 改成一秒自动吃一次\n\n【第 85 条】\n四大陆混沌神邸 第一次提示剑甲 剑甲做好了 第二次提示412级 等级好了 如果��有第三个提示（套娃吗）\n处理：小方把所有提示放到了一个提示，但是不排除其他地图也有这样的提示\n\n【第 86 条】\n技能强化在哪里找不到\n处理：强哥加了个强化技能NPC\n\n【第 87 条】\n打到终极武器装备不自动拾取\n处理：发小方看了，联系了作者，作者故意设计，现在调整了脚本，现在装备可以直接拾取进入背包了\n\n【第 88 条】\n榜单合区也清理，介绍没有\n处理：小方加了合区也清的介绍\n\n【第 89 条】\n在锁妖塔11层  通过鞭尸  可以无限刷货币\n处理：技术小方修复了\n\n【第 90 条】\n合生肖材料符合 但是提示材料不足\n处理：小方修复了 但可能有点问题 有的玩家生肖灵气会变成负数  按对应的货币补给玩家买满就行\n\n【第 91 条】\n三大陆 充128进的安全挂机地图  0点不会传出去\n处理：小方问作者反馈了看下要不要修改一下还是就这样 作者说就这样不改动了\n\n【第 92 条】\n装备上显加的爆率  实际不加的\n处理：小方查所有的爆率都不加                                  问作者加爆率了\n\n【第 93 条】\n所有限时奖励打到了没有给\n处理：阿伟已修复\n\n【第 94 条】\n外滩大世界 、原始旧遗迹安全充值地图   到时间只要不退游戏，就不会被弹出来\n处理：技术强哥已经修复\n\n【第 95 条】\n时装给的破护身 第一刀还是会掉蓝\n处理：让强哥进行了优化在10.18号晚22.45进行重启，今晚只重启了cq5 1010-1013，其余明天白天发公告重启，新区等合区\n\n【第 96 条】\n锁妖塔30层没刷怪\n处理：强哥查没刷 但是脚本没有问题，之前是大小怪分开的命令 现在两段命令整合了 后面关注一下会不会不刷新 30层 杀死巫妖王 80秒回自动离开自动地图\n\n【第 97 条】\n10级装备穿戴比9级血量少\n处理：小方调整了，10级装备问题，现在血量没问题了\n\n【第 98 条】\n神の隐身术技能，领取过以后不在技能列表中显示\n处理：小方做了新添加，找来的玩家技能补好了，后续说不会在出现这个问题\n\n【第 99 条】\n玩家反馈：战士鉴定攻魔道+3，体力都给10，如果法师洗攻魔道+3，体力值不+10，是+4\n处理：阿伟查了， 战士10、法师4、道士6。 按职业检测，如果法师洗魔法，转职成战士，去洗可以洗到+10的体力值（作者进行了修改，检测属性按照属性给，小退或者重新点击NPC 会自动恢复到该有的属性）\n\n【第 100 条】\n装备给的几率使人红名  杀人不会红名\n处理：阿伟已修复 装备名字写错了\n\n【第 101 条】\n可无视读秒直接小退\n处理：小方做了限制了\n\n【第 102 条】\n先天大圆满没有专属高爆地图\n处理：小方查、没有特殊的专属地图，把介绍高爆地图去掉了，等合区之后就不会有显示了\n\n【第 103 条】\n混沌血牛链   显示是0级\n处理：强哥修复了 应该是14级的\n\n【第 104 条】\n背包的装备强化按钮 点自动洗练 但是不自动洗\n处理：强哥去掉了自动洗练按钮了\n\n【第 105 条】\n激活本源给的禁锢 开行会模式  同行会人也会被禁锢\n处理：小方看除了安全区 其他的地方都会禁锢 9月30开的 快一个月了 暂不做改动 找来的人多再看\n\n【第 106 条】\n行会争霸地图 不是他们胜利方行会的人也在里面打怪\n处理：小方看之前行会的人没退出就一直在里面 改成不是胜利行会的会被踢出去\n\n【第 107 条】\n问21点幸运在哪里加，最高就加到14点\n处理：强哥找作者那边白天看了，后期武器和项链装备自带幸运值\n\n【第 108 条】\n带了大师玉佩 升不了\n处理：强哥修复了 实际是要王者的  介绍写错了\n\n【第 109 条】\n反映探测出现乱码\n处理：强哥找插件那边修复了，重启之后生效\n\n【第 110 条】\n首杀里天地孕育·[孙悟空SSS+]怪物，玩家找不到\n处理：让小方把这个首杀去掉了，查了没有这个怪物的刷新点\n\n【第 111 条】\n生肖送的擒龙手自带禁锢效果（擒龙手为顶级生肖一套后自动获取的技能）+禁锢是盾牌洗练出的强化擒龙手。在盾牌未洗练的情况下擒龙手也能触发禁锢\n处理：强哥联系作者，改成要有擒龙之魂才能有禁锢效果，已经修复了\n\n【第 112 条】\n真冲地图 过了0点只要不出来就能一直在里面\n处理：强哥问作者 要修复，过十二点会踢出里面的人\n\n【第 113 条】\n初级血石没有地方获得 上线给的 死亡会爆\n处理：有爆掉的 让他建小号倒一个给大号就行 不添加商城\n\n【第 114 条】\n刚创建的小号可以进通关地图点通关npc\n处理：强哥修复了，是通过乾坤挪移之术把不符合等级的小号拉到通关地图刷通关次数\n\n【第 115 条】\n四个地图正常各刷2只高爆怪  现在是8只全都刷到第四个地图里去了\n处理：版本开太久了暂时不改                            改的话 万一可能会有人说怎么地图刷怪变少了         没之前多了\n\n【第 116 条】\n举报可以十步一杀飞装备\n处理：阿伟说十步现在是精准位置跳的 ，问过作者可以改，组长同意了。全平台覆盖\n\n【第 117 条】\n无敌cd显示120，游戏界面的面板显示是5分钟\n处理：联系强哥进行了测试更改，现已无问题\n\n【第 118 条】\n三大路  热血觉醒  觉醒3次后  进度不增加\n处理：强哥给弄了  说是还会发生，明天联系作者\n\n【第 119 条】\n这个装备给的红毒  没有效果\n处理：强哥上号看了不太对 白天需要找作者在测一下 强哥修改了 但红毒不是破百分百防御  根据道术越高 破的防御越高 具体破多少不给玩家说  需要玩家自己摸索\n\n【第 120 条】\n土城蜈蚣洞穴地图，合区以后大于等于60级不能进，但是有玩家故意建小号，在等于低于60级，先进了地图  然后升到60级反正也不出去 一直待上十几二十天 等到下次合区  期间一直打怪刷材料   别的大号进不去打不了他们  玩家认为不合理\n处理：阿伟认为没啥问题  新手地图也没什么好装备 目前找来一个人 后面看看有没有其他人说吧\n\n【第 121 条】\n觉醒点满以后，热血觉醒衣服的的火雨减伤属性+9%没有给到\n处理：找来要上号，找技术手动调整。并不是每个玩家都会出现(小方调整)\n\n【第 122 条】\n1017-1018  死亡沼泽 怪物刷外面去了\n处理：强哥找作者换地图了 重启生效 25号就合区了（只换了这个平台）\n\n【第 123 条】\n通区任务的祈愿  卡10天不清除，方法：上面的任务全部做完给30次数    使用 20次 留下  10次次数   第二天不会被清除 ， 第二天 再用一次 次数点第一个祈愿  还能再延长一天，后面每天使用一次次数点一下，用完10次 能卡10天 祈愿\n处理：阿伟让白天找强哥看下 这个明天让强哥修吧   通区更新也要强哥来更新\n，客服自己建号点了 试了 过了12点 确实没有被清掉  账号密码 ：198895       1111\n\n【第 124 条】\n玩家反馈终极生肖上面没写带探测 但是有探测属性\n处理：让小方那边加了介绍 重启生效",
+        "examId": "",
+        "createdAt": "2026/10/24 16:38:52"
+      }
+    ],
+    "ywx_exams": [
+      {
+        "id": "mvm5gjtswr9rk",
+        "title": "十月考核",
+        "passScore": 60,
+        "totalScore": 125,
+        "duration": 30,
+        "questionIds": [
+          "mvls84d3plcqu",
+          "mvls84d33ugju",
+          "mvls84d3b9fb3",
+          "qmvlwpab8v8da4",
+          "qmvlwpab8e2mh1",
+          "qmvlwpab8esj2b",
+          "qmvlwpab89vpge",
+          "qmvlwpab86k52r",
+          "mvm5f7hypsdy1",
+          "mvm5f8zpp894o",
+          "mvm5f99iop6wj",
+          "mvm5fbh408r45",
+          "mvm5fbm75vbg2",
+          "mvm5fbwmpsgn7",
+          "mvm5fc727p3s9"
+        ],
+        "createdAt": "2026/10/24 16:41:28",
+        "scopeId": "",
+        "blueprint": "基础5·进阶5·实战5",
+        "status": "draft",
+        "publishNote": "",
+        "publishedAt": ""
+      },
+      {
+        "id": "mvna993ohezc7",
+        "title": "10",
+        "passScore": 84,
+        "totalScore": 86,
+        "duration": 30,
+        "questionIds": [
+          "mvm5f5tz3ms6t",
+          "mvm5f6rbf0hm0",
+          "mvm5f73nfdabs",
+          "mvm5f78ia3ei8",
+          "mvm5f7hypsdy1",
+          "mvm5f7wuqhn69",
+          "mvm5f99iop6wj",
+          "mvm5fa936s8ud",
+          "mvm5fbm75vbg2",
+          "mvm5fbwmpsgn7",
+          "mvm5fc727p3s9",
+          "mvm5fcc5cmof0"
+        ],
+        "createdAt": "2026/10/25 11:43:32",
+        "scopeId": "mvm5d72lmquln",
+        "blueprint": "基础5·进阶4·实战3",
+        "status": "draft",
+        "publishNote": "",
+        "publishedAt": ""
+      },
+      {
+        "id": "mvnaa65vnacw2",
+        "title": "10",
+        "passScore": 90,
+        "totalScore": 45,
+        "duration": 30,
+        "questionIds": [
+          "mvna6imi22xh7",
+          "mvna6j5ti1a08",
+          "mvna6jbdodn7b",
+          "mvna6jlmsuptu",
+          "mvna6jqh07s30"
+        ],
+        "createdAt": "2026/10/25 11:44:15",
+        "scopeId": "mvna5pdtd5yt6",
+        "blueprint": "基础2·进阶2·实战1",
+        "status": "draft",
+        "publishNote": "",
+        "publishedAt": ""
+      },
+      {
+        "id": "mvnav8ixot687",
+        "title": "测试",
+        "passScore": 60,
+        "totalScore": 60,
+        "duration": 30,
+        "questionIds": [
+          "mvna6j5ti1a08",
+          "mvna6jbdodn7b",
+          "mvna6lsh9qlk2",
+          "mvna6lxu2ldzq",
+          "mvna6olu4bx6q",
+          "mvna6p5lt9pes",
+          "mvna6q2hg5ldw"
+        ],
+        "createdAt": "2026/10/25 12:00:38",
+        "scopeId": "mvna5pdtd5yt6",
+        "blueprint": "基础5·进阶1·实战1",
+        "status": "draft",
+        "publishNote": "",
+        "publishedAt": ""
+      }
+    ],
+    "ywx_materials": [
+      {
+        "id": "mvna49eh21j64",
+        "title": "工作制度",
+        "content": "1. 禁止工作时间内做与工作无关的事项，包含长时间玩手机、刷视频、玩游戏、追剧、闲聊、网购、看公众号违规五百起扣\n\n2.上班时间不懒散，禁止长时间脱离工作岗位，离开工位和回复客服时间不得超过半小时.违规五百起扣\n\n\n4.抽烟人员不许成群结队，\n\n\n3.吃饭分散开，保持岗位有人在\n\n\n4.不允许当天请假休息，特殊情况调班需有人顶班，提前通知，在有当天填休息的一律按旷工处理，扣除500+当日工资\n\n\n5.汤汤水水类，味道大的不允许在工位吃饭，统一到会议室\n\n\n6.下班桌面保持干净整洁，椅子归位，不用的东西收起来，发现一个200起扣（早班，晚班一起）\n\n\n7.不准大声喧哗，禁止扎堆聊天 发现一次  在场人员每人扣除200\n\n\n8.漏回消息第一次一条200 第二次扣除当月绩效  超过5次 优化\n\n\n9.机械化回复玩家，发现一次200（聊天死板，玩家遇到问题，急躁情况下，还是用机械化回复，激化玩家矛盾）\n\n\n10.工作不交接，故意拖沓给接班客服，随意处理玩家问题 不严谨的 发现一次500\n\n\n11.玩家问题没处理完，需要时间的，一定要跟玩家留言，说清楚原由。不允许就说这边下班了，敷衍玩家，发现一次扣200\n\n\n12.每月不定时抽查聊天记录，发现玩家反馈好的，整个流程顺畅，可以供别人学习的，奖励200-500",
+        "createdAt": "2026/10/25 11:39:39"
+      },
+      {
+        "id": "mvm55nu7pio8s",
+        "title": "当日bug交接表",
+        "content": "【第 1 条】\n沙捐封榜介绍对怪吸血10%没有用\n处理：全区已删介绍\n\n【第 2 条】\n禁术学习之后，双击使用了会消失\n处理：阿伟看脚本名字写错了，已经修好了\n\n【第 3 条】\n说什么都比对面高 打不过低级玩家 几刀被秒\n处理：强哥说倍攻计算脚本写错了修复了\n\n【第 4 条】\n51剑甲套穿上  血量没有穿52级剑甲套高\n处理：强哥修复了 低级的★味儿№好甲★装备 血量给多了                                           如果还有问题 看装备下面鉴定属性是不是没低级高  找npc随机鉴定一下\n\n【第 5 条】\n在榜首专属地图打怪   时不时弹出神秘领域地图弹窗\n处理：需要问作者 限制弹窗出现的时间间隔\n\n【第 6 条】\n法师职业，本源装备给的属性是战士的\n处理：两个平台都已修复，自行升级的需要重新穿戴一下\n\n【第 7 条】\n本来封榜有10%吸血 现在没有了    打怪吸血也没了   玩家反馈扛不住怪\n处理：小方联系作者了 优化了现在有吸血了\n\n【第 8 条】\n最强王者触发的几率百分之5伤害，法师用流行火雨技能不触发，只有普通攻击才有用\n处理：强哥看这几个技能才几率触发：雷电术、灵魂火符、烈火剑法、刺杀剑术、攻杀剑术、开天斩                      （作者说加在流行火雨上，已经添加上了 ）\n\n【第 9 条】\n〓银霄·鸿蒙神装〓  和  〓荒古·至高神剑〓\n时装勾选了外显  但是不外显  没有用\n处理：阿伟问作者了   修好了\n\n【第 10 条】\n开狂暴给的半月技能，飘群切显示还没不开狂暴的快\n处理：强哥找作者，开狂暴给半月弯刀就会这样，取消了半月弯刀\n\n【第 11 条】\n前一天充值只要不出来就不会弹出去充值地图\n处理：阿伟做了检测，过十二点检测没有充值就回被弹出地图\n\n【第 12 条】\n问顶榜有没有封榜\n处理：阿伟说问作者了，作者说先不改，暂时捐献没爆掉的   不需要处理  这个是每天清除的\n\n【第 13 条】\n四大陆收集56-57级装备，要在六大陆塔里爆出，下大陆需要当前大陆收集满，散人打不到，可以通过大米一键收集，玩家接受不了\n处理：小方反馈给作者，加爆率还是其他优化方案\n\n【第 14 条】\n领取礼包给的终极吸怪  转职之后只能补领初级的吸怪\n处理：强哥看脚本没问题  如果领取终极吸怪的礼包转职补领也是终极 目前帮这个玩家调成终极吸怪了 后面看还有没有其他玩家出现这样的情况\n\n【第 15 条】\n完美的首饰衣服 没有自动分解  只能手动分解 爆出太多了  挂机一会就满背包了\n处理：强哥发作者问了 看下能否添加自动分解\n\n【第 16 条】\n法师 地爆天星 技能释放没有特效效果\n处理：小许发作者问了，作者暂时还没有回复，修复了，没特效的删除文件包重新进游戏\n\n【第 17 条】\nf12里面的走位捡物没有用，其他版本有用，我上号也测试了，跟玩家说的情况一样\n处理：找阿伟看了，明天问插件吧。。。。这里便没有你那个选项\n\n【第 18 条】\n充值地图怪刷新位置正常走不过去，只能碰巧随机飞过去才能打到，全屏吸怪也吸不到\n处理：强哥 缩小地图刷怪范围  重启生效\n\n【第 19 条】\n本源给的麻痹 打boss换地图打 麻痹就没用了              除非重新关掉  重新开才有效\n处理：每次切换地图麻痹属性就会清  强哥修复了\n\n【第 20 条】\n鼠(稀有) 文本写错了 爆不出来\n处理：阿伟查了 已经修复了 ，现在正常打怪爆出\n\n【第 21 条】\n可以重复领取通关奖励，只要其他任务都做完，生肖鉴定卡到3个，小退再上就能再领取\n处理：测试过了，是可以的，强哥已经修复了\n\n【第 22 条】\n新区开区首杀没开，打怪没给奖励也不显示名额\n处理：强哥没找到原因，读取不到，角色小退下就好了\n\n【第 23 条】\n说怪物在安全区可以杀死玩家\n处理：强哥修复了 写了清怪的脚本\n\n【第 24 条】\n邪神印记  斩杀的血量和属性描述不一致\n处理：强哥修复成了斩杀20w血量 并且覆盖了了所有平台\n\n【第 25 条】\n首爆奖励打到了没有给，名额也没有减少\n处理：强哥看了有问题 还没有修好\n\n【第 26 条】\n这个地图需要真充，但是很多没有充值的小号都可以进去\n处理：阿伟看实际是不需要的，只要充值点达到500就可以，改了介绍\n\n【第 27 条】\n终极剑甲是合成的 而且合成很贵 但是不防爆\n处理：问了李敏  找强哥改成防爆的了 npc上面也加了介绍\n\n【第 28 条】\n10点半的狂暴战场提前结束了\n处理：小方查了时间设置短了 已经改了\n\n【第 29 条】\n5大陆的670级、673级、676级、680级地图 卡怪了\n处理：强哥修改了刷怪的范围 合区或者重启生效\n\n【第 30 条】\n新区活动到时间没有开启\n处理：阿伟修复了\n\n【第 31 条】\n道士终极宝宝没有用，介绍上说是远程群攻的，实际是没有的\n处理：阿伟把群攻远程介绍去掉了，加上的话道士加强了，怕对pk有影响\n\n【第 32 条】\n没有自动的分解按钮，不方便挂机\n处理：阿伟问了作者，加了自动分解\n\n【第 33 条】\n可以用野蛮+回城直接飞走\n处理：强哥发公告 修改了 回城跟随机的CD延长到4秒\n\n【第 34 条】\n神通+5、+6给的都是150点攻击\n处理：小方看是介绍错了 现在已经修改\n\n【第 35 条】\n十步一杀 全屏吸怪 野蛮技能cd冷却时间到了 提示蓝色失败提示  提示完以后cd时间又重新要等冷却  偶尔会这样 不是一直都这样\n处理：目前找来一个玩家，阿伟说暂时不动，不是经常这样，找来人多再说\n\n【第 36 条】\n红包自动吃货币吃的太慢了，背包很快就满了\n处理：小许调整了 1秒吃一个\n\n【第 37 条】\n神珠本源npc，属性是跟着升级这件装备的人物走的\n处理：已经联系小许，全平台加上提示\n\n【第 38 条】\n玩家是新区的 杀神币换不了元宝 提示新区才能换\n处理：阿伟修复了\n\n【第 39 条】\n天外有天，NPC提示必爆天赋碎片，实际没爆\n处理：阿伟已修复\n\n【第 40 条】\n7级神火升8级神火，血量降低了\n处理：强哥修了，脚本里没写8级神火属性\n\n【第 41 条】\n图鉴激活28阶装备没有给属性\n处理：作者写脚本重新修复了 可能会有玩家点的26、27阶没了 补140币重新点\n\n【第 42 条】\n捐献元宝榜爆了\n处理：找作者给捐献量调了 捐1w后面数值是w了几乎不会爆了\n\n【第 43 条】\n穿升级后的时装  无法进入这个地\n处理：小方添加了现在可以了\n\n【第 44 条】\n卡两个宝瓶，终极套本身伤害就能秒人，垃圾套装带两个奶瓶也能秒人，这样终极套没用了，终极套跟垃圾的血量只高了3w\n处理：问玩家  买了就能直接戴上去 版本开一个月了 李敏建议不改 （小丁也建议不改）\n\n【第 45 条】\n领取的5888冲值回馈+10%伤害吸收没有\n处理：阿伟修复了，领了后边的回馈，5888充值回馈领取的+10伤害吸收就没了\n\n【第 46 条】\n打一晚上怪，签到那边显示今日已击杀0怪，是怪物血量问题\n处理：怪物血量显示很高，但实际是没有这么高的\n\n【第 47 条】\n刷完美点\n处理：强哥已经修复了，第一个找来的玩家给了bug 奖励\n\n【第 48 条】\n图鉴页面 杀神币数量 跳来跳去的每次点开显示需要的数量不一样  强哥反馈给作者了\n处理：强哥发作者了 等作者查找问题修复 /已经修复\n\n【第 49 条】\n限时地图正常时间到就出来 但用坐标石传送 就没有时间\n处理：强哥 加了限制   已经记录的 需要手动清楚\n\n【第 50 条】\n可以卡生命神珠的本源神力 法师和道士可以带战士的本源神力 可以加很多的血（血量是以百分比计算）  方法：准备两个珠子，交易给一个正常满号的玩家 两个珠子右击来回穿戴一下，就卡上了，再交易回去就行了\n处理：已修复 视频在WU4群里面\n\n【第 51 条】\n十步一杀需要背包神器配合\n处理：小方查没有背包神器，阿伟看介绍错了,跟背包神器没关系,冰冻是（恐怖空间·杀 194 189 万法归一）给的,找小伙重新配置了登录器,再有玩家找来的资源修复重新上这个介绍就没有了\n\n【第 52 条】\n时装地图每次进去都没有怪\n处理：小方查了确实没有怪 找作者添加了\n\n【第 53 条】\n捐献不符问题，只要输入1 输入十个左右就可以卡上去了\n处理：阿伟已修复，现在排名上不对的发技术调整之后后续就不会在出现了\n\n【第 54 条】\n首爆的奖励还是没有给\n处理：阿伟联系作者说是修复了\n\n【第 55 条】\n装备图鉴点完了  消失了\n处理：阿伟又又又联系作者修复了，今天遇到两个小许查了没有记录，补了288左右游戏币给了玩家\n\n【第 56 条】\n魔王降世地图120分钟刷一只BOSS   除了第一次其他都没有刷\n处理：阿伟联系作者说是修改了  120分钟刷一只\n\n【第 57 条】\n回收材料 会提示扣除元宝\n处理：实际不扣 只是会显示  阿伟修复了\n\n【第 58 条】\n月灵系统 二十万月灵了  没给这个称号\n处理：阿伟看过了，到百万年才能给这个称号，介绍错了，修改了介绍\n\n【第 59 条】\n先天炼体npc，十重给的圆满称号，介绍给解锁专属高爆地图，是桃源之门，但是进只要5重\n处理：强哥删了专属高爆地图的介绍\n\n【第 60 条】\n土城可以召唤这么多宝宝\n处理：目前这边只有一个人反馈  反馈多的话 再找技术改一下\n\n【第 61 条】\n狂暴战场，在外面给小号上毒，大号不用进，别人杀死都算外面这个大号的\n处理：强哥已经修复\n\n【第 62 条】\n群雄争霸地图 活动结束了也不会自动传送出来 也没有领奖的npc\n处理：小方看没设置领奖npc 先给找来的补了300币 已修复 后面有npc领奖了\n\n【第 63 条】\n极品属性6升7  提示需要300神力碎片+500神石  实际只需要背包里材料大于150就可以\n处理：强哥已修复 改成跟介绍一样了 全平台覆盖\n\n【第 64 条】\n玩家战力 切割，血量会掉\n处理：是称号富可敌国，需要背包有500杀神币\n\n【第 65 条】\n介绍写的项链增加1.2神力倍攻  实际没给这个属性\n处理：考虑到这个版本上快两个月 强哥把NPC写的给1.2倍神力的介绍去掉了\n\n【第 66 条】\n很多人说战士和法师职业不平衡，法师加的属性比战士的多，能轻松杀死战士\n处理：阿伟找作者测试看过了，现在改成在pk状态下，攻击人物或者被人物攻击，吸血无效\n\n【第 67 条】\n同样的时装，男衣服有破护身   女的没有\n处理：强哥看实际有属性的，只是介绍上没有加，在介绍上加了\n\n【第 68 条】\n葫芦带破复活 法师打人不触发  战士打人能触发\n处理：魔法攻击没用  强哥修了\n\n【第 69 条】\n影之宝藏地图，用BOSS卷在公共方地图无限刷怪，刷货币材料\n处理：阿伟修的，现在限制只能再里面召唤5只\n\n【第 70 条】\n除了飞皇宫 飞其他三个地方都是飞到野外\n处理：强哥已修，脚本坐标写错了\n\n【第 71 条】\n写的只扣货币，但实际上还会扣金鳞币材料\n处理：阿伟已修改，介绍修成失败会扣除货币+材料\n\n【第 72 条】\n挂机的时候 被客服拉回城 还是挂机状态在土城外面乱跑\n处理：阿伟修了 现在传回城 不会触发挂机状态了\n\n【第 73 条】\n自动吃红包 吃的太慢了 背包一会就满了\n处理：小许调整了 1秒吃一次，先改了这个区 1212   没问题的话 再覆盖\n\n【第 74 条】\n怪物刷到墙里打不到\n处理：阿伟修改了刷怪范围，合区后生效\n\n【第 75 条】\n夺宝奇兵多个人拥有这个称号，一个区应该只能一个人有\n处理：强哥找作者进行优化了   10.14日早上作者重新修了一下\n\n【第 76 条】\n攻魔道属性可以卡的很高\n处理：阿伟修了  1.转移和被转移（被转的进度条10）放到里面 2.勾选自动回收（转移的能被回收掉）3.满背包自动回收后，被转移的回收了，框里的也对应被回收了，但是属性还在  4.然后点npc转移以后属性会转到被转移的装备上，被转移装备的进度条也会随之变0，反复操作叠加属性\n\n【第 77 条】\n戴一个月灵战戒，再戴一个光辉战戒，属性没有戴2个光辉战戒属性高\n处理：阿伟看了属性是有问题，单个的装备属性没有加上，现在加上了\n\n【第 78 条】\n法宝满10阶 进不去法宝地图\n处理：强哥说法宝地图进不去的修复了\n\n【第 79 条】\n这两个装备只能通过活动怪爆出，没有其他途径，开区到现在5天没有几个玩家打到过\n处理：小许联系作者了，现在增加了五大陆的怪也爆  已经加好了\n\n【第 80 条】\n玩家佩戴高级的切割  没有低级的切割装备高\n处理：强哥修复了，现在正常                         更高级神牛的装备打怪伤害也没给对，阿伟修复了\n\n【第 81 条】\n作者暗调降低了打架人物死亡爆出装备的几率\n处理：已降低，属于暗调，不可告知玩家\n\n【第 82 条】\n触发红名就会一直无敌\n处理：强哥看了触发了红名保护才会导致玩家触发红名之后两方都不掉血（大于等于300级），问了作者现在把保护修改成120级了（泡点到250级）\n\n【第 83 条】\n法道伤害太高，充350的法师，几下把充1万的战士砸没血了\n处理：小方联系作者调整法道伤害，进行优化\n\n【第 84 条】\n红包自动吃的太慢了 满背包了 影响打怪捡取装备\n处理：强哥修了 原三秒自动吃一次 改成一秒自动吃一次\n\n【第 85 条】\n四大陆混沌神邸 第一次提示剑甲 剑甲做好了 第二次提示412级 等级好了 如果还有第三个提示（套娃吗）\n处理：小方把所有提示放到了一个提示，但是不排除其他地图也有这样的提示\n\n【第 86 条】\n技能强化在哪里找不到\n处理：强哥加了个强化技能NPC\n\n【第 87 条】\n打到终极武器装备不自动拾取\n处理：发小方看了，联系了作者，作者故意设计，现在调整了脚本，现在装备可以直接拾取进入背包了\n\n【第 88 条】\n榜单合区也清理，介绍没有\n处理：小方加了合区也清的介绍\n\n【第 89 条】\n在锁妖塔11层  通过鞭尸  可以无限刷货币\n处理：技术小方修复了\n\n【第 90 条】\n合生肖材料符合 但是提示材料不足\n处理：小方修复了 但可能有点问题 有的玩家生肖灵气会变成负数  按对应的货币补给玩家买满就行\n\n【第 91 条】\n三大陆 充128进的安全挂机地图  0点不会传出去\n处理：小方问作者反馈了看下要不要修改一下还是就这样 作者说就这样不改动了\n\n【第 92 条】\n装备上显加的爆率  实际不加的\n处理：小方查所有的爆率都不加                                  问作者加爆率了\n\n【第 93 条】\n所有限时奖励打到了没有给\n处理：阿伟已修复\n\n【第 94 条】\n外滩大世界 、原始旧遗迹安全充值地图   到时间只要不退游戏，就不会被弹出来\n处理：技术强哥已经修复\n\n【第 95 条】\n时装给的破护身 第一刀还是会掉蓝\n处理：让强哥进行了优化在10.18号晚22.45进行重启，今晚只重启了cq5 1010-1013，其余明天白天发公告重启，新区等合区\n\n【第 96 条】\n锁妖塔30层没刷怪\n处理：强哥查没刷 但是脚本没有问题，之前是大小怪分开的命令 现在两段命令整合了 后面关注一下会不会不刷新 30层 杀死巫妖王 80秒回自动离开自动地图\n\n【第 97 条】\n10级装备穿戴比9级血量少\n处理：小方调整了，10级装备问题，现在血量没问题了\n\n【第 98 条】\n神の隐身术技能，领取过以后不在技能列表中显示\n处理：小方做了新添加，找来的玩家技能补好了，后续说不会在出现这个问题\n\n【第 99 条】\n玩家反馈：战士鉴定攻魔道+3，体力都给10，如果法师洗攻魔道+3，体力值不+10，是+4\n处理：阿伟查了， 战士10、法师4、道士6。 按职业检测，如果法师洗魔法，转职成战士，去洗可以洗到+10的体力值（作者进行了修改，检测属性按照属性给，小退或者重新点击NPC 会自动恢复到该有的属性）\n\n【第 100 条】\n装备给的几率使人红名  杀人不会红名\n处理：阿伟已修复 装备名字写错了\n\n【第 101 条】\n可无视读秒直接小退\n处理：小方做了限制了\n\n【第 102 条】\n先天大圆满没有专属高爆地图\n处理：小方查、没有特殊的专属地图，把介绍高爆地图去掉了，等合区之后就不会有显示了\n\n【第 103 条】\n混沌血牛链   显示是0级\n处理：强哥修复了 应该是14级的\n\n【第 104 条】\n背包的装备强化按钮 点自动洗练 但是不自动洗\n处理：强哥去掉了自动洗练按钮了\n\n【第 105 条】\n激活本源给的禁锢 开行会模式  同行会人也会被禁锢\n处理：小方看除了安全区 其他的地方都会禁锢 9月30开的 快一个月了 暂不做改动 找来的人多再看\n\n【第 106 条】\n行会争霸地图 不是他们胜利方行会的人也在里面打怪\n处理：小方看之前行会的人没退出就一直在里面 改成不是胜利行会的会被踢出去\n\n【第 107 条】\n问21点幸运在哪里加，最高就加到14点\n处理：强哥找作者那边白天看了，后期武器和项链装备自带幸运值\n\n【第 108 条】\n带了大师玉佩 升不了\n处理：强哥修复了 实际是要王者的  介绍写错了\n\n【第 109 条】\n反映探测出现乱码\n处理：强哥找插件那边修复了，重启之后生效\n\n【第 110 条】\n首杀里天地孕育·[孙悟空SSS+]怪物，玩家找不到\n处理：让小方把这个首杀去掉了，查了没有这个怪物的刷新点\n\n【第 111 条】\n生肖送的擒龙手自带禁锢效果（擒龙手为顶级生肖一套后自动获取的技能）+禁锢是盾牌洗练出的强化擒龙手。在盾牌未洗练的情况下擒龙手也能触发禁锢\n处理：强哥联系作者，改成要有擒龙之魂才能有禁锢效果，已经修复了\n\n【第 112 条】\n真冲地图 过了0点只要不出来就能一直在里面\n处理：强哥问作者 要修复，过十二点会踢出里面的人\n\n【第 113 条】\n初级血石没有地方获得 上线给的 死亡会爆\n处理：有爆掉的 让他建小号倒一个给大号就行 不添加商城\n\n【第 114 条】\n刚创建的小号可以进通关地图点通关npc\n处理：强哥修复了，是通过乾坤挪移之术把不符合等级的小号拉到通关地图刷通关次数\n\n【第 115 条】\n四个地图正常各刷2只高爆怪  现在是8只全都刷到第四个地图里去了\n处理：版本开太久了暂时不改                            改的话 万一可能会有人说怎么地图刷怪变少了         没之前多了\n\n【第 116 条】\n举报可以十步一杀飞装备\n处理：阿伟说十步现在是精准位置跳的 ，问过作者可以改，组长同意了。全平台覆盖\n\n【第 117 条】\n无敌cd显示120，游戏界面的面板显示是5分钟\n处理：联系强哥进行了测试更改，现已无问题\n\n【第 118 条】\n三大路  热血觉醒  觉醒3次后  进度不增加\n处理：强哥给弄了  说是还会发生，明天联系作者\n\n【第 119 条】\n这个装备给的红毒  没有效果\n处理：强哥上号看了不太对 白天需要找作者在测一下 强哥修改了 但红毒不是破百分百防御  根据道术越高 破的防御越高 具体破多少不给玩家说  需要玩家自己摸索\n\n【第 120 条】\n土城蜈蚣洞穴地图，合区以后大于等于60级不能进，但是有玩家故意建小号，在等于低于60级，先进了地图  然后升到60级反正也不出去 一直待上十几二十天 等到下次合区  期间一直打怪刷材料   别的大号进不去打不了他们  玩家认为不合理\n处理：阿伟认为没啥问题  新手地图也没什么好装备 目前找来一个人 后面看看有没有其他人说吧\n\n【第 121 条】\n觉醒点满以后，热血觉醒衣服的的火雨减伤属性+9%没有给到\n处理：找来要上号，找技术手动调整。并不是每个玩家都会出现(小方调整)\n\n【第 122 条】\n1017-1018  死亡沼泽 怪物刷外面去了\n处理：强哥找作者换地图了 重启生效 25号就合区了（只换了这个平台）\n\n【第 123 条】\n通区任务的祈愿  卡10天不清除，方法：上面的任务全部做完给30次数    使用 20次 留下  10次次数   第二天不会被清除 ， 第二天 再用一次 次数点第一个祈愿  还能再延长一天，后面每天使用一次次数点一下，用完10次 能卡10天 祈愿\n处理：阿伟让白天找强哥看下 这个明天让强哥修吧   通区更新也要强哥来更新\n，客服自己建号点了 试了 过了12点 确实没有被清掉  账号密码 ：198895       1111\n\n【第 124 条】\n玩家反馈终极生肖上面没写带探测 但是有探测属性\n处理：让小方那边加了介绍 重启生效",
+        "createdAt": "2026/10/24 16:33:00"
+      }
+    ],
+    "ywx_attempts": [
+      {
+        "id": "mvlug5qomhdfx",
+        "examId": "mvls84dqrrhwb",
+        "userId": "mvls84d3tqcqm",
+        "userName": "客服12",
+        "score": 30,
+        "passScore": 60,
+        "detail": [
+          {
+            "qid": "mvls84d3plcqu",
+            "type": "choice",
+            "stem": "客户反馈账号在异地登录、疑似被盗，正确的第一处理动作是？",
+            "userAnswer": "0",
+            "refAnswer": "1",
+            "analysis": "账号安全类投诉优先止损：引导改密+设备锁+冻结异常登录，避免要求转账等二次风险。",
+            "maxScore": 10,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "mvls84d33ugju",
+            "type": "judge",
+            "stem": "热血传奇的官方充值渠道仅限游戏内与官网，任何第三方低价代充都属违规，客服应提示风险并引导官方渠道。",
+            "userAnswer": "true",
+            "refAnswer": "true",
+            "analysis": "代充多涉及黑产/盗刷，易致封号与资金损失，客服须明确提示风险并引导官方渠道。",
+            "maxScore": 10,
+            "got": 10,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "mvls84d34slde",
+            "type": "essay",
+            "stem": "请简述当客户因「装备无故消失」情绪激动投诉时，客服的标准处理流程与话术要点。",
+            "userAnswer": "浮士德撒 告诉s",
+            "refAnswer": "安抚情绪→核实账号与日志→区分正常消耗/BUG/盗号→可恢复的协助恢复并说明时效→不可恢复的致歉+补偿方案→记录案例归档。",
+            "analysis": "评分要点：①先共情安抚不急于辩解；②必须先核实日志再下结论；③区分原因给出不同处置；④闭环补偿与归档。缺任一点扣对应分。",
+            "maxScore": 20,
+            "got": 20,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "mvls84d3b9fb3",
+            "type": "choice",
+            "stem": "检测到客户在公屏发布线下交易引流信息，且为第三次违规，按规则应？",
+            "userAnswer": "0",
+            "refAnswer": "2",
+            "analysis": "三次违规对应阶梯处罚：禁言7天并标记观察，永久封禁需更重违规层级，避免过度处罚引发投诉。",
+            "maxScore": 15,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          }
+        ],
+        "submittedAt": "2026/10/24 11:33:14",
+        "status": "reviewed",
+        "hasEssay": true
+      },
+      {
+        "id": "mvlufjrijpc14",
+        "examId": "mvls84dqrrhwb",
+        "userId": "mvls84d3vnm70",
+        "userName": "客服30",
+        "score": 30,
+        "passScore": 60,
+        "detail": [
+          {
+            "qid": "mvls84d3plcqu",
+            "type": "choice",
+            "stem": "客户反馈账号在异地登录、疑似被盗，正确的第一处理动作是？",
+            "userAnswer": "0",
+            "refAnswer": "1",
+            "analysis": "账号安全类投诉优先止损：引导改密+设备锁+冻结异常登录，避免要求转账等二次风险。",
+            "maxScore": 10,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "mvls84d33ugju",
+            "type": "judge",
+            "stem": "热血传奇的官方充值渠道仅限游戏内与官网，任何第三方低价代充都属违规，客服应提示风险并引导官方渠道。",
+            "userAnswer": "true",
+            "refAnswer": "true",
+            "analysis": "代充多涉及黑产/盗刷，易致封号与资金损失，客服须明确提示风险并引导官方渠道。",
+            "maxScore": 10,
+            "got": 10,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "mvls84d34slde",
+            "type": "essay",
+            "stem": "请简述当客户因「装备无故消失」情绪激动投诉时，客服的标准处理流程与话术要点。",
+            "userAnswer": "fhj",
+            "refAnswer": "安抚情绪→核实账号与日志→区分正常消耗/BUG/盗号→可恢复的协助恢复并说明时效→不可恢复的致歉+补偿方案→记录案例归档。",
+            "analysis": "评分要点：①先共情安抚不急于辩解；②必须先核实日志再下结论；③区分原因给出不同处置；④闭环补偿与归档。缺任一点扣对应分。",
+            "maxScore": 20,
+            "got": 20,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "mvls84d3b9fb3",
+            "type": "choice",
+            "stem": "检测到客户在公屏发布线下交易引流信息，且为第三次违规，按规则应？",
+            "userAnswer": "0",
+            "refAnswer": "2",
+            "analysis": "三次违规对应阶梯处罚：禁言7天并标记观察，永久封禁需更重违规层级，避免过度处罚引发投诉。",
+            "maxScore": 15,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          }
+        ],
+        "submittedAt": "2026/10/24 11:32:46",
+        "status": "reviewed",
+        "hasEssay": true
+      },
+      {
+        "id": "demo_at_mvls84d3rl3e4",
+        "examId": "exam_flow_mvlwpabv",
+        "userId": "mvls84d3rl3e4",
+        "userName": "客服06",
+        "score": 10,
+        "passScore": 60,
+        "detail": [
+          {
+            "qid": "qmvlwpab8v8da4",
+            "type": "choice",
+            "stem": "客户反馈账号在异地登录、疑似被盗，客服的第一动作应该是？",
+            "userAnswer": "1",
+            "refAnswer": 1,
+            "analysis": "资料明确：第一动作是引导改密+开启设备锁+冻结异常登录，且严禁要求客户转账验证身份。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8t0mgx",
+            "type": "judge",
+            "stem": "为核实账号归属，客服可以要求客户转账一定金额来验证身份。",
+            "userAnswer": "false",
+            "refAnswer": false,
+            "analysis": "资料明确严禁要求客户转账验证身份，这是账号安全处理的红线。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8pa992",
+            "type": "choice",
+            "stem": "关于充值渠道，下列说法正确的是？",
+            "userAnswer": "1",
+            "refAnswer": 1,
+            "analysis": "官方充值仅限游戏内与官网，任何第三方低价代充均属违规，客服须提示风险并引导官方渠道，不得代客操作充值。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8o9sjt",
+            "type": "judge",
+            "stem": "客户不会充值操作时，客服可以登录客户账号代其完成充值。",
+            "userAnswer": "false",
+            "refAnswer": false,
+            "analysis": "资料规定不得代客操作充值，应引导客户通过游戏内或官网官方渠道自行完成。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8e2mh1",
+            "type": "choice",
+            "stem": "客户称装备无故消失，客服的正确处理顺序是？",
+            "userAnswer": "1",
+            "refAnswer": 1,
+            "analysis": "装备找回流程为：先安抚，再核实账号日志，区分正常消耗/BUG/盗号；可恢复的协助恢复并说明时效，不可恢复的致歉+补偿方案，最后记录案例归档。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8lwvdz",
+            "type": "judge",
+            "stem": "装备经核实不可恢复时，客服应致歉并给出补偿方案，同时记录案例归档。",
+            "userAnswer": "true",
+            "refAnswer": true,
+            "analysis": "资料规定不可恢复的致歉+补偿方案，最后记录案例归档。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8esj2b",
+            "type": "choice",
+            "stem": "客户在公屏发布线下交易引流信息，第三次违规的处罚是？",
+            "userAnswer": "2",
+            "refAnswer": 2,
+            "analysis": "公屏发布线下交易引流信息：第一次口头提醒，第二次禁言1天，第三次禁言7天并标记重点观察。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8esuis",
+            "type": "judge",
+            "stem": "客户在公屏辱骂他人，客服可对其禁言1天。",
+            "userAnswer": "true",
+            "refAnswer": true,
+            "analysis": "资料规定辱骂他人可禁言1天。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab89vpge",
+            "type": "choice",
+            "stem": "面对情绪激动的投诉客户，客服的正确做法是？",
+            "userAnswer": "1",
+            "refAnswer": 1,
+            "analysis": "投诉处理要求先共情安抚不急于辩解，核实日志后再下结论，区分原因给出处置，闭环补偿与归档。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab86k52r",
+            "type": "essay",
+            "stem": "请简述客户反馈装备无故消失时的完整处理流程及关键要点。",
+            "userAnswer": "要点：1.先安抚客户情绪；2.核实账号日志；3.区分正常消耗、BUG、盗号三类原因；4.可恢复的协助恢复并说明时效；5.不可恢复的致歉并给出补偿方案；6.记录案例归档。",
+            "refAnswer": "要点：1.先安抚客户情绪；2.核实账号日志；3.区分正常消耗、BUG、盗号三类原因；4.可恢复的协助恢复并说明时效；5.不可恢复的致歉并给出补偿方案；6.记录案例归档。",
+            "analysis": "本题考察装备找回全流程，需覆盖安抚、核实、分类处置、恢复时效说明、补偿与归档，体现流程完整性与客户体验意识。",
+            "maxScore": 10,
+            "got": 10,
+            "needsReview": false,
+            "answered": true
+          }
+        ],
+        "submittedAt": "2026-10-24T05:00:48",
+        "status": "reviewed",
+        "hasEssay": true
+      },
+      {
+        "id": "demo_at_mvls84d3t02ij",
+        "examId": "exam_flow_mvlwpabv",
+        "userId": "mvls84d3t02ij",
+        "userName": "客服07",
+        "score": 10,
+        "passScore": 60,
+        "detail": [
+          {
+            "qid": "qmvlwpab8v8da4",
+            "type": "choice",
+            "stem": "客户反馈账号在异地登录、疑似被盗，客服的第一动作应该是？",
+            "userAnswer": "1",
+            "refAnswer": 1,
+            "analysis": "资料明确：第一动作是引导改密+开启设备锁+冻结异常登录，且严禁要求客户转账验证身份。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8t0mgx",
+            "type": "judge",
+            "stem": "为核实账号归属，客服可以要求客户转账一定金额来验证身份。",
+            "userAnswer": "false",
+            "refAnswer": false,
+            "analysis": "资料明确严禁要求客户转账验证身份，这是账号安全处理的红线。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8pa992",
+            "type": "choice",
+            "stem": "关于充值渠道，下列说法正确的是？",
+            "userAnswer": "1",
+            "refAnswer": 1,
+            "analysis": "官方充值仅限游戏内与官网，任何第三方低价代充均属违规，客服须提示风险并引导官方渠道，不得代客操作充值。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8o9sjt",
+            "type": "judge",
+            "stem": "客户不会充值操作时，客服可以登录客户账号代其完成充值。",
+            "userAnswer": "false",
+            "refAnswer": false,
+            "analysis": "资料规定不得代客操作充值，应引导客户通过游戏内或官网官方渠道自行完成。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8e2mh1",
+            "type": "choice",
+            "stem": "客户称装备无故消失，客服的正确处理顺序是？",
+            "userAnswer": "1",
+            "refAnswer": 1,
+            "analysis": "装备找回流程为：先安抚，再核实账号日志，区分正常消耗/BUG/盗号；可恢复的协助恢复并说明时效，不可恢复的致歉+补偿方案，最后记录案例归档。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8lwvdz",
+            "type": "judge",
+            "stem": "装备经核实不可恢复时，客服应致歉并给出补偿方案，同时记录案例归档。",
+            "userAnswer": "true",
+            "refAnswer": true,
+            "analysis": "资料规定不可恢复的致歉+补偿方案，最后记录案例归档。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8esj2b",
+            "type": "choice",
+            "stem": "客户在公屏发布线下交易引流信息，第三次违规的处罚是？",
+            "userAnswer": "2",
+            "refAnswer": 2,
+            "analysis": "公屏发布线下交易引流信息：第一次口头提醒，第二次禁言1天，第三次禁言7天并标记重点观察。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8esuis",
+            "type": "judge",
+            "stem": "客户在公屏辱骂他人，客服可对其禁言1天。",
+            "userAnswer": "true",
+            "refAnswer": true,
+            "analysis": "资料规定辱骂他人可禁言1天。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab89vpge",
+            "type": "choice",
+            "stem": "面对情绪激动的投诉客户，客服的正确做法是？",
+            "userAnswer": "1",
+            "refAnswer": 1,
+            "analysis": "投诉处理要求先共情安抚不急于辩解，核实日志后再下结论，区分原因给出处置，闭环补偿与归档。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab86k52r",
+            "type": "essay",
+            "stem": "请简述客户反馈装备无故消失时的完整处理流程及关键要点。",
+            "userAnswer": "要点：1.先安抚客户情绪；2.核实账号日志；3.区分正常消耗、BUG、盗号三类原因；4.可恢复的协助恢复并说明时效；5.不可恢复的致歉并给出补偿方案；6.记录案例归档。",
+            "refAnswer": "要点：1.先安抚客户情绪；2.核实账号日志；3.区分正常消耗、BUG、盗号三类原因；4.可恢复的协助恢复并说明时效；5.不可恢复的致歉并给出补偿方案；6.记录案例归档。",
+            "analysis": "本题考察装备找回全流程，需覆盖安抚、核实、分类处置、恢复时效说明、补偿与归档，体现流程完整性与客户体验意识。",
+            "maxScore": 10,
+            "got": 10,
+            "needsReview": false,
+            "answered": true
+          }
+        ],
+        "submittedAt": "2026-10-24T05:00:48",
+        "status": "reviewed",
+        "hasEssay": true
+      },
+      {
+        "id": "mvlxx9id5iz3m",
+        "examId": "exam_flow_mvlwpabv",
+        "userId": "mvls84d3vnm70",
+        "userName": "客服30",
+        "score": 10,
+        "passScore": 60,
+        "detail": [
+          {
+            "qid": "qmvlwpab8v8da4",
+            "type": "choice",
+            "stem": "客户反馈账号在异地登录、疑似被盗，客服的第一动作应该是？",
+            "userAnswer": "1",
+            "refAnswer": 1,
+            "analysis": "资料明确：第一动作是引导改密+开启设备锁+冻结异常登录，且严禁要求客户转账验证身份。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8t0mgx",
+            "type": "judge",
+            "stem": "为核实账号归属，客服可以要求客户转账一定金额来验证身份。",
+            "userAnswer": "false",
+            "refAnswer": false,
+            "analysis": "资料明确严禁要求客户转账验证身份，这是账号安全处理的红线。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8pa992",
+            "type": "choice",
+            "stem": "关于充值渠道，下列说法正确的是？",
+            "userAnswer": "1",
+            "refAnswer": 1,
+            "analysis": "官方充值仅限游戏内与官网，任何第三方低价代充均属违规，客服须提示风险并引导官方渠道，不得代客操作充值。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8o9sjt",
+            "type": "judge",
+            "stem": "客户不会充值操作时，客服可以登录客户账号代其完成充值。",
+            "userAnswer": "false",
+            "refAnswer": false,
+            "analysis": "资料规定不得代客操作充值，应引导客户通过游戏内或官网官方渠道自行完成。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8e2mh1",
+            "type": "choice",
+            "stem": "客户称装备无故消失，客服的正确处理顺序是？",
+            "userAnswer": "1",
+            "refAnswer": 1,
+            "analysis": "装备找回流程为：先安抚，再核实账号日志，区分正常消耗/BUG/盗号；可恢复的协助恢复并说明时效，不可恢复的致歉+补偿方案，最后记录案例归档。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8lwvdz",
+            "type": "judge",
+            "stem": "装备经核实不可恢复时，客服应致歉并给出补偿方案，同时记录案例归档。",
+            "userAnswer": "true",
+            "refAnswer": true,
+            "analysis": "资料规定不可恢复的致歉+补偿方案，最后记录案例归档。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8esj2b",
+            "type": "choice",
+            "stem": "客户在公屏发布线下交易引流信息，第三次违规的处罚是？",
+            "userAnswer": "3",
+            "refAnswer": 2,
+            "analysis": "公屏发布线下交易引流信息：第一次口头提醒，第二次禁言1天，第三次禁言7天并标记重点观察。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8esuis",
+            "type": "judge",
+            "stem": "客户在公屏辱骂他人，客服可对其禁言1天。",
+            "userAnswer": "true",
+            "refAnswer": true,
+            "analysis": "资料规定辱骂他人可禁言1天。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab89vpge",
+            "type": "choice",
+            "stem": "面对情绪激动的投诉客户，客服的正确做法是？",
+            "userAnswer": "1",
+            "refAnswer": 1,
+            "analysis": "投诉处理要求先共情安抚不急于辩解，核实日志后再下结论，区分原因给出处置，闭环补偿与归档。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab86k52r",
+            "type": "essay",
+            "stem": "请简述客户反馈装备无故消失时的完整处理流程及关键要点。",
+            "userAnswer": "",
+            "refAnswer": "要点：1.先安抚客户情绪；2.核实账号日志；3.区分正常消耗、BUG、盗号三类原因；4.可恢复的协助恢复并说明时效；5.不可恢复的致歉并给出补偿方案；6.记录案例归档。",
+            "analysis": "本题考察装备找回全流程，需覆盖安抚、核实、分类处置、恢复时效说明、补偿与归档，体现流程完整性与客户体验意识。",
+            "maxScore": 10,
+            "got": 10,
+            "needsReview": false,
+            "answered": false
+          }
+        ],
+        "submittedAt": "2026/10/24 13:10:31",
+        "status": "reviewed",
+        "hasEssay": true
+      },
+      {
+        "id": "mvm5kz862y3gy",
+        "examId": "mvm5gjtswr9rk",
+        "userId": "mvls84d33wvpp",
+        "userName": "客服11",
+        "score": 75,
+        "passScore": 60,
+        "detail": [
+          {
+            "qid": "mvls84d3plcqu",
+            "type": "choice",
+            "stem": "客户反馈账号在异地登录、疑似被盗，正确的第一处理动作是？",
+            "userAnswer": "1",
+            "refAnswer": "1",
+            "analysis": "账号安全类投诉优先止损：引导改密+设备锁+冻结异常登录，避免要求转账等二次风险。",
+            "maxScore": 10,
+            "got": 10,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "mvls84d33ugju",
+            "type": "judge",
+            "stem": "热血传奇的官方充值渠道仅限游戏内与官网，任何第三方低价代充都属违规，客服应提示风险并引导官方渠道。",
+            "userAnswer": "true",
+            "refAnswer": "true",
+            "analysis": "代充多涉及黑产/盗刷，易致封号与资金损失，客服须明确提示风险并引导官方渠道。",
+            "maxScore": 10,
+            "got": 10,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "mvls84d3b9fb3",
+            "type": "choice",
+            "stem": "检测到客户在公屏发布线下交易引流信息，且为第三次违规，按规则应？",
+            "refAnswer": "2",
+            "analysis": "三次违规对应阶梯处罚：禁言7天并标记观察，永久封禁需更重违规层级，避免过度处罚引发投诉。",
+            "maxScore": 15,
+            "got": 0,
+            "needsReview": false,
+            "answered": false
+          },
+          {
+            "qid": "qmvlwpab8v8da4",
+            "type": "choice",
+            "stem": "客户反馈账号在异地登录、疑似被盗，客服的第一动作应该是？",
+            "userAnswer": "1",
+            "refAnswer": 1,
+            "analysis": "资料明确：第一动作是引导改密+开启设备锁+冻结异常登录，且严禁要求客户转账验证身份。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8e2mh1",
+            "type": "choice",
+            "stem": "客户称装备无故消失，客服的正确处理顺序是？",
+            "userAnswer": "1",
+            "refAnswer": 1,
+            "analysis": "装备找回流程为：先安抚，再核实账号日志，区分正常消耗/BUG/盗号；可恢复的协助恢复并说明时效，不可恢复的致歉+补偿方案，最后记录案例归档。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab8esj2b",
+            "type": "choice",
+            "stem": "客户在公屏发布线下交易引流信息，第三次违规的处罚是？",
+            "userAnswer": "1",
+            "refAnswer": 2,
+            "analysis": "公屏发布线下交易引流信息：第一次口头提醒，第二次禁言1天，第三次禁言7天并标记重点观察。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab89vpge",
+            "type": "choice",
+            "stem": "面对情绪激动的投诉客户，客服的正确做法是？",
+            "refAnswer": 1,
+            "analysis": "投诉处理要求先共情安抚不急于辩解，核实日志后再下结论，区分原因给出处置，闭环补偿与归档。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": false
+          },
+          {
+            "qid": "qmvlwpab86k52r",
+            "type": "essay",
+            "stem": "请简述客户反馈装备无故消失时的完整处理流程及关键要点。",
+            "userAnswer": "先安抚 然后查询相关日志 技术反馈给客户",
+            "refAnswer": "要点：1.先安抚客户情绪；2.核实账号日志；3.区分正常消耗、BUG、盗号三类原因；4.可恢复的协助恢复并说明时效；5.不可恢复的致歉并给出补偿方案；6.记录案例归档。",
+            "analysis": "本题考察装备找回全流程，需覆盖安抚、核实、分类处置、恢复时效说明、补偿与归档，体现流程完整性与客户体验意识。",
+            "maxScore": 10,
+            "got": 10,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "mvm5f7hypsdy1",
+            "type": "choice",
+            "stem": "关于最强王者触发几率伤害的技能，以下哪项是作者已添加触发效果的技能？",
+            "userAnswer": "1",
+            "refAnswer": "0",
+            "maxScore": 10,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "mvm5f8zpp894o",
+            "type": "judge",
+            "stem": "沙捐封榜介绍中对怪吸血10%的属性是有实际效果的。",
+            "userAnswer": "true",
+            "refAnswer": "false",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "mvm5f99iop6wj",
+            "type": "judge",
+            "stem": "51剑甲套血量没有52级剑甲套高的问题，若修复后仍有问题，应查看装备下面的鉴定属性是否比低级低，并找NPC随机鉴定。",
+            "userAnswer": "true",
+            "refAnswer": "true",
+            "maxScore": 5,
+            "got": 5,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "mvm5fbh408r45",
+            "type": "essay",
+            "stem": "玩家反馈自己属性比对面高却打不过低级玩家，几刀被秒，客服如何回复处理？",
+            "userAnswer": "让他充值发育",
+            "refAnswer": "强哥说倍攻计算脚本写错了，已经修复。",
+            "analysis": "资料第3条，答出倍攻计算脚本写错并修复即可。",
+            "maxScore": 5,
+            "got": 5,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "mvm5fbm75vbg2",
+            "type": "essay",
+            "stem": "玩家反馈51剑甲套穿上后血量没有52级剑甲套高，客服应如何处理和引导玩家后续排查？",
+            "userAnswer": "那肯定没有啊",
+            "refAnswer": "强哥修复了低级★味儿№好甲★装备血量给多了的问题；如果还有问题，让玩家看装备下面鉴定属性是不是没低级高，找NPC随机鉴定一下。",
+            "analysis": "资料第4条包含修复内容和后续引导两个要点，答全得满分，缺一酌情扣分。",
+            "maxScore": 10,
+            "got": 10,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "mvm5fbwmpsgn7",
+            "type": "essay",
+            "stem": "法师玩家反馈本源装备给的属性是战士的，客服应如何答复？",
+            "userAnswer": "这个这场的",
+            "refAnswer": "两个平台都已修复；自行升级的玩家需要重新穿戴一下。",
+            "analysis": "资料第6条，需答出已修复和自行升级需重新穿戴两个要点。",
+            "maxScore": 10,
+            "got": 10,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "mvm5fc727p3s9",
+            "type": "essay",
+            "stem": "玩家反馈最强王者触发几率5%伤害，法师用流行火雨技能不触发，只有普通攻击才有用，客服应如何处理？",
+            "userAnswer": "这个不知道",
+            "refAnswer": "强哥查看后确认只有雷电术、灵魂火符、烈火剑法、刺杀剑术、攻杀剑术、开天斩这几个技能才几率触发；作者说加在流行火雨上，已经添加上了。",
+            "analysis": "资料第8条，需答出触发技能范围和已为流行火雨添加触发两个要点，缺一扣分。",
+            "maxScore": 15,
+            "got": 15,
+            "needsReview": false,
+            "answered": true
+          }
+        ],
+        "submittedAt": "2026/10/24 16:44:55",
+        "status": "reviewed",
+        "hasEssay": true
+      },
+      {
+        "id": "mvm62cn1l25k9",
+        "examId": "mvm5gjtswr9rk",
+        "userId": "mvls84d3tqcqm",
+        "userName": "客服12",
+        "score": 50,
+        "passScore": 60,
+        "detail": [
+          {
+            "qid": "mvls84d3plcqu",
+            "type": "choice",
+            "stem": "客户反馈账号在异地登录、疑似被盗，正确的第一处理动作是？",
+            "userAnswer": "0",
+            "refAnswer": "1",
+            "analysis": "账号安全类投诉优先止损：引导改密+设备锁+冻结异常登录，避免要求转账等二次风险。",
+            "maxScore": 10,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "mvls84d33ugju",
+            "type": "judge",
+            "stem": "热血传奇的官方充值渠道仅限游戏内与官网，任何第三方低价代充都属违规，客服应提示风险并引导官方渠道。",
+            "refAnswer": "true",
+            "analysis": "代充多涉及黑产/盗刷，易致封号与资金损失，客服须明确提示风险并引导官方渠道。",
+            "maxScore": 10,
+            "got": 0,
+            "needsReview": false,
+            "answered": false
+          },
+          {
+            "qid": "mvls84d3b9fb3",
+            "type": "choice",
+            "stem": "检测到客户在公屏发布线下交易引流信息，且为第三次违规，按规则应？",
+            "refAnswer": "2",
+            "analysis": "三次违规对应阶梯处罚：禁言7天并标记观察，永久封禁需更重违规层级，避免过度处罚引发投诉。",
+            "maxScore": 15,
+            "got": 0,
+            "needsReview": false,
+            "answered": false
+          },
+          {
+            "qid": "qmvlwpab8v8da4",
+            "type": "choice",
+            "stem": "客户反馈账号在异地登录、疑似被盗，客服的第一动作应该是？",
+            "refAnswer": 1,
+            "analysis": "资料明确：第一动作是引导改密+开启设备锁+冻结异常登录，且严禁要求客户转账验证身份。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": false
+          },
+          {
+            "qid": "qmvlwpab8e2mh1",
+            "type": "choice",
+            "stem": "客户称装备无故消失，客服的正确处理顺序是？",
+            "refAnswer": 1,
+            "analysis": "装备找回流程为：先安抚，再核实账号日志，区分正常消耗/BUG/盗号；可恢复的协助恢复并说明时效，不可恢复的致歉+补偿方案，最后记录案例归档。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": false
+          },
+          {
+            "qid": "qmvlwpab8esj2b",
+            "type": "choice",
+            "stem": "客户在公屏发布线下交易引流信息，第三次违规的处罚是？",
+            "refAnswer": 2,
+            "analysis": "公屏发布线下交易引流信息：第一次口头提醒，第二次禁言1天，第三次禁言7天并标记重点观察。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": false
+          },
+          {
+            "qid": "qmvlwpab89vpge",
+            "type": "choice",
+            "stem": "面对情绪激动的投诉客户，客服的正确做法是？",
+            "userAnswer": "0",
+            "refAnswer": 1,
+            "analysis": "投诉处理要求先共情安抚不急于辩解，核实日志后再下结论，区分原因给出处置，闭环补偿与归档。",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "qmvlwpab86k52r",
+            "type": "essay",
+            "stem": "请简述客户反馈装备无故消失时的完整处理流程及关键要点。",
+            "userAnswer": "",
+            "refAnswer": "要点：1.先安抚客户情绪；2.核实账号日志；3.区分正常消耗、BUG、盗号三类原因；4.可恢复的协助恢复并说明时效；5.不可恢复的致歉并给出补偿方案；6.记录案例归档。",
+            "analysis": "本题考察装备找回全流程，需覆盖安抚、核实、分类处置、恢复时效说明、补偿与归档，体现流程完整性与客户体验意识。",
+            "maxScore": 10,
+            "got": 10,
+            "needsReview": false,
+            "answered": false
+          },
+          {
+            "qid": "mvm5f7hypsdy1",
+            "type": "choice",
+            "stem": "关于最强王者触发几率伤害的技能，以下哪项是作者已添加触发效果的技能？",
+            "userAnswer": "2",
+            "refAnswer": "0",
+            "maxScore": 10,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "mvm5f8zpp894o",
+            "type": "judge",
+            "stem": "沙捐封榜介绍中对怪吸血10%的属性是有实际效果的。",
+            "refAnswer": "false",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": false
+          },
+          {
+            "qid": "mvm5f99iop6wj",
+            "type": "judge",
+            "stem": "51剑甲套血量没有52级剑甲套高的问题，若修复后仍有问题，应查看装备下面的鉴定属性是否比低级低，并找NPC随机鉴定。",
+            "userAnswer": "false",
+            "refAnswer": "true",
+            "maxScore": 5,
+            "got": 0,
+            "needsReview": false,
+            "answered": true
+          },
+          {
+            "qid": "mvm5fbh408r45",
+            "type": "essay",
+            "stem": "玩家反馈自己属性比对面高却打不过低级玩家，几刀被秒，客服如何回复处理？",
+            "userAnswer": "",
+            "refAnswer": "强哥说倍攻计算脚本写错了，已经修复。",
+            "analysis": "资料第3条，答出倍攻计算脚本写错并修复即可。",
+            "maxScore": 5,
+            "got": 5,
+            "needsReview": false,
+            "answered": false
+          },
+          {
+            "qid": "mvm5fbm75vbg2",
+            "type": "essay",
+            "stem": "玩家反馈51剑甲套穿上后血量没有52级剑甲套高，客服应如何处理和引导玩家后续排查？",
+            "userAnswer": "",
+            "refAnswer": "强哥修复了低级★味儿№好甲★装备血量给多了的问题；如果还有问题，让玩家看装备下面鉴定属性是不是没低级高，找NPC随机鉴定一下。",
+            "analysis": "资料第4条包含修复内容和后续引导两个要点，答全得满分，缺一酌情扣分。",
+            "maxScore": 10,
+            "got": 10,
+            "needsReview": false,
+            "answered": false
+          },
+          {
+            "qid": "mvm5fbwmpsgn7",
+            "type": "essay",
+            "stem": "法师玩家反馈本源装备给的属性是战士的，客服应如何答复？",
+            "userAnswer": "",
+            "refAnswer": "两个平台都已修复；自行升级的玩家需要重新穿戴一下。",
+            "analysis": "资料第6条，需答出已修复和自行升级需重新穿戴两个要点。",
+            "maxScore": 10,
+            "got": 10,
+            "needsReview": false,
+            "answered": false
+          },
+          {
+            "qid": "mvm5fc727p3s9",
+            "type": "essay",
+            "stem": "玩家反馈最强王者触发几率5%伤害，法师用流行火雨技能不触发，只有普通攻击才有用，客服应如何处理？",
+            "userAnswer": "",
+            "refAnswer": "强哥查看后确认只有雷电术、灵魂火符、烈火剑法、刺杀剑术、攻杀剑术、开天斩这几个技能才几率触发；作者说加在流行火雨上，已经添加上了。",
+            "analysis": "资料第8条，需答出触发技能范围和已为流行火雨添加触发两个要点，缺一扣分。",
+            "maxScore": 15,
+            "got": 15,
+            "needsReview": false,
+            "answered": false
+          }
+        ],
+        "submittedAt": "2026/10/24 16:58:25",
+        "status": "reviewed",
+        "hasEssay": true
+      }
+    ],
+    "ywx_settings": {
+      "apiBase": "https://api.deepseek.com",
+      "apiKey": "",
+      "model": "deepseek-chat",
+      "enabled": true
+    }
+  }
+}

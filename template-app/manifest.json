@@ -1,0 +1,27 @@
+{
+  "name": "轻舟AI V3.0 · 培训考核系统",
+  "short_name": "轻舟AI",
+  "version": "3.0.0",
+  "description": "AI 驱动的企业客服培训考试系统：智能出题、在线组卷、在线考试、成绩复核、数据看板一体化闭环管理",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#181530",
+  "theme_color": "#1a1f4d",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
